@@ -41,7 +41,7 @@ async function loadFromJSON() {
         icon: icons[loc.type] || undefined
       })
         .addTo(map)
-        .bindPopup(`<b>${loc.name}</b><br>Type: ${loc.type}`);
+        .bindPopup(`<b>${loc.name}</b>`);
       markers.push(marker);
       bounds.push(latlng);
     });
