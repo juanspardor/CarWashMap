@@ -71,7 +71,7 @@ async function loadFromJSON() {
       const icon = icons[loc.type];
 
       // 👇 Log what you're about to try
-      console.log(`Processing #${index + 1}: ${loc.name} (type: ${loc.type})`);
+      //console.log(`Processing #${index + 1}: ${loc.name} (type: ${loc.type})`);
 
       if (!icon) {
         console.error(`❌ Missing or unknown icon type: "${loc.type}" for "${loc.name}"`);
