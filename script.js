@@ -1,4 +1,8 @@
-// Marker icon colors
+// ✅ Declare markers before use
+let map;
+let markers = [];
+
+// 🎨 Marker icons by type
 const icons = {
   Mister: L.icon({
     iconUrl: 'https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-red.png',
@@ -18,22 +22,19 @@ const icons = {
   })
 };
 
-// Your business search definitions
+// 🔍 Businesses to fetch on refresh
 const businesses = [
   { query: "Mister Car Wash", type: "Mister" },
   { query: "Take 5 Car Wash", type: "Take" }
 ];
 
-let map;
-let markers = [];
-
-// Remove all current markers
+// ✅ Remove current markers
 function clearMarkers() {
   markers.forEach(marker => map.removeLayer(marker));
   markers = [];
 }
 
-// Load locations from the static file
+// 📂 Load from static locations.json
 async function loadFromJSON() {
   try {
     const res = await fetch("locations.json");
@@ -54,7 +55,7 @@ async function loadFromJSON() {
   }
 }
 
-// Fetch updated locations from the Nominatim API
+// 🌐 Fetch live data from Nominatim (on refresh)
 async function fetchAndRenderFreshData() {
   clearMarkers();
 
@@ -64,7 +65,7 @@ async function fetchAndRenderFreshData() {
     try {
       const res = await fetch(url, {
         headers: {
-          "User-Agent": "your-app-name (your@email.com)"
+          "User-Agent": "map-test-app (test@example.com)" // replace with your email
         }
       });
 
@@ -84,26 +85,26 @@ async function fetchAndRenderFreshData() {
       alert(`Error fetching data for ${biz.query}`);
     }
 
-    // Respect Nominatim API rate limit
+    // ⏱ Be polite to Nominatim
     await new Promise(resolve => setTimeout(resolve, 1100));
   }
 }
 
-// Init the map and load static data
+// 🗺️ Init map
 function initMap() {
-  map = L.map('map').setView([39.8283, -98.5795], 4); // Center of US
+  map = L.map('map').setView([39.8283, -98.5795], 4); // USA center
 
   L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     attribution: '&copy; OpenStreetMap contributors'
   }).addTo(map);
 
-  loadFromJSON(); // ✅ Load static locations only
+  loadFromJSON(); // 🟢 Load static markers
 }
 
-// This is called only when user clicks "Refresh"
+// 🔁 Called when button is clicked
 function refreshMap() {
-  fetchAndRenderFreshData(); // ✅ Pull live data only on demand
+  fetchAndRenderFreshData(); // 🔄 Fetch and show live data
 }
 
-// Initialize map on page load
+// 🚀 Load map on page load
 document.addEventListener("DOMContentLoaded", initMap);
