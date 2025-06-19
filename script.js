@@ -58,14 +58,25 @@ async function loadFromJSON() {
 
 // 🗺️ Init map
 function initMap() {
-  map = L.map('map').setView([39.8283, -98.5795], 4); // USA center
+  const US_BOUNDS = [
+    [24.396308, -125.0],   // Southwest corner (Key West to California)
+    [49.384358, -66.93457] // Northeast corner (Maine)
+  ];
+
+  map = L.map('map', {
+    maxBounds: US_BOUNDS,
+    maxBoundsViscosity: 1.0,
+    minZoom: 4,
+    maxZoom: 18
+  }).setView([39.8283, -98.5795], 5); // Centered on continental US
 
   L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     attribution: '&copy; OpenStreetMap contributors'
   }).addTo(map);
 
-  loadFromJSON(); // ✅ Load static markers only
+  loadFromJSON(); // Load your markers
 }
+
 
 // 🚀 Load map on page load
 document.addEventListener("DOMContentLoaded", initMap);
