@@ -1564,5 +1564,1079 @@
     "lat": 43.013027,
     "lon": -88.04728,
     "type": "Take"
+  },
+  {
+    "name": "Whistle Express Car Wash, 12472, San Jose Boulevard, Jacksonville, Duval County, Florida, 32223, United States",
+    "lat": 30.142037,
+    "lon": -81.6332484,
+    "type": "Whiste"
+  },
+  {
+    "name": "Whistle Express Car Wash, 518, North Tyndall Parkway, Panama City, Bay County, Florida, 32404, United States",
+    "lat": 30.1566173,
+    "lon": -85.5903239,
+    "type": "Whiste"
+  },
+  {
+    "name": "Whistle Express Car Wash, FL A1A;FL 200, Yulee, Nassau County, Florida, United States",
+    "lat": 30.6251597,
+    "lon": -81.5410267,
+    "type": "Whiste"
+  },
+  {
+    "name": "Whistle Express Car Wash, Memorial Drive, Waycross, Ware County, Georgia, 31501, United States",
+    "lat": 31.1990875,
+    "lon": -82.3267745,
+    "type": "Whiste"
+  },
+  {
+    "name": "Whistle Express Car Wash, East Jackson Street, Thomasville, Thomas County, Georgia, 31792, United States",
+    "lat": 30.853951,
+    "lon": -83.9576775,
+    "type": "Whiste"
+  },
+  {
+    "name": "Whistle Express Car Wash, 1274, Johnson Ferry Road Northeast, Heritage Glen, Cobb County, Georgia, 30075, United States",
+    "lat": 33.9806697,
+    "lon": -84.4234073,
+    "type": "Whiste"
+  },
+  {
+    "name": "Whistle Express Car Wash, Gornto Road, The Grove Apartments Valdosta, Valdosta, Lowndes County, Georgia, 31602, United States",
+    "lat": 30.8460895,
+    "lon": -83.3247348,
+    "type": "Whiste"
+  },
+  {
+    "name": "Whistle Express Car Wash, Engberg Avenue, Schoer Estates, Lowndes County, Georgia, 31605, United States",
+    "lat": 30.8839771,
+    "lon": -83.2723283,
+    "type": "Whiste"
+  },
+  {
+    "name": "Whistle Express Car Wash, US 19;US 84;GA 3;GA 38;GA 300, Thomasville, Thomas County, Georgia, 31757, United States",
+    "lat": 30.8464269,
+    "lon": -83.9456065,
+    "type": "Whiste"
+  },
+  {
+    "name": "Whistle Express Car Wash, State Road 62, Jeffersonville, Clark County, Indiana, 47111, United States",
+    "lat": 38.3584635,
+    "lon": -85.702132,
+    "type": "Whiste"
+  },
+  {
+    "name": "Whistle Express Wash, 2190, South Hurstbourne Parkway, Hurstbourne Acres, Jefferson County, Kentucky, 40220, United States",
+    "lat": 38.2164931,
+    "lon": -85.5913093,
+    "type": "Whiste"
+  },
+  {
+    "name": "Whistle Express Car Wash, 1638, New Garden Road, Woodland Hills, Greensboro, Guilford County, North Carolina, 27410, United States",
+    "lat": 36.1170436,
+    "lon": -79.8727317,
+    "type": "Whiste"
+  },
+  {
+    "name": "Whistle Express Car Wash, 2906, Battleground Avenue, Country Park at Tall Oaks, Garden Homes, Greensboro, Guilford County, North Carolina, 27410, United States",
+    "lat": 36.1131914,
+    "lon": -79.8327784,
+    "type": "Whiste"
+  },
+  {
+    "name": "Whistle Express Car Wash, 2040, Olde Regent Way, Leland, Brunswick County, North Carolina, 28451, United States",
+    "lat": 34.219432,
+    "lon": -78.0165296,
+    "type": "Whiste"
+  },
+  {
+    "name": "Whistle Express Car Wash, 135, Tallmadge Road, Kent, Brimfield Township, Portage County, Ohio, 44240, United States",
+    "lat": 41.1011164,
+    "lon": -81.3884654,
+    "type": "Whiste"
+  },
+  {
+    "name": "Whistle Express Car Wash, 410, North Main Street, Knollwood, Mauldin, Greenville County, South Carolina, 29662, United States",
+    "lat": 34.7845714,
+    "lon": -82.312081,
+    "type": "Whiste"
+  },
+  {
+    "name": "Whistle Express Car Wash, 7302, Lee Highway, Silverdale, Chattanooga, Hamilton County, East Tennessee, Tennessee, 37421, United States",
+    "lat": 35.0523046,
+    "lon": -85.1488852,
+    "type": "Whiste"
+  },
+  {
+    "name": "Whistle Express Car Wash, Signal Mountain Road, Chattanooga, Hamilton County, East Tennessee, Tennessee, 37405, United States",
+    "lat": 35.0889622,
+    "lon": -85.3312003,
+    "type": "Whiste"
+  },
+  {
+    "name": "Whistle Express Car Wash, 2575, Guthrie Street Northwest, Cleveland, Bradley County, East Tennessee, Tennessee, 37311, United States",
+    "lat": 35.1896484,
+    "lon": -84.8838866,
+    "type": "Whiste"
+  },
+  {
+    "name": "Whistle Express, 954, North Franklin Street, Echo Hills, Christiansburg, Montgomery County, Virginia, 24073, United States",
+    "lat": 37.1417694,
+    "lon": -80.4145654,
+    "type": "Whiste"
+  },
+  {
+    "name": "Zips Car Wash, 9500, North Rodney Parham Road, Little Rock, Big Rock Township, Pulaski County, Arkansas, 72227, United States",
+    "lat": 34.7602736,
+    "lon": -92.3793293,
+    "type": "Zips"
+  },
+  {
+    "name": "Zips Car Wash, 620, South Bowman Road, Little Rock, Big Rock Township, Pulaski County, Arkansas, 72211, United States",
+    "lat": 34.7482577,
+    "lon": -92.4076688,
+    "type": "Zips"
+  },
+  {
+    "name": "Zips Car Wash, 3107, West Wedington Drive, Fayetteville, Washington County, Arkansas, 72704, United States",
+    "lat": 36.077843,
+    "lon": -94.2035166,
+    "type": "Zips"
+  },
+  {
+    "name": "Zips Car Wash, 4311, North State Line Avenue, Texarkana, Bowie County, Texas, 75503, United States",
+    "lat": 33.4586842,
+    "lon": -94.0436648,
+    "type": "Zips"
+  },
+  {
+    "name": "Zips Car Wash, Paseo Drive South, Baymeadows, Jacksonville, Duval County, Florida, 32255, United States",
+    "lat": 30.222044,
+    "lon": -81.5613221,
+    "type": "Zips"
+  },
+  {
+    "name": "Zips Car Wash, 4254, Woodbine Road, Pace, Santa Rosa County, Florida, 32571, United States",
+    "lat": 30.5933648,
+    "lon": -87.1769495,
+    "type": "Zips"
+  },
+  {
+    "name": "Zips Express Car Wash, Macon Highway, Oconee County, Georgia, 30644, United States",
+    "lat": 33.8895897,
+    "lon": -83.4143052,
+    "type": "Zips"
+  },
+  {
+    "name": "Zips Car Wash, 1601, Troy Road, Edwardsville, Madison County, Illinois, 62025, United States",
+    "lat": 38.7940588,
+    "lon": -89.9515937,
+    "type": "Zips"
+  },
+  {
+    "name": "Zips Car Wash, 1250, South Broadway, South Broadway Park, Lexington, Fayette County, Kentucky, 40504, United States",
+    "lat": 38.034458,
+    "lon": -84.5213814,
+    "type": "Zips"
+  },
+  {
+    "name": "Zips Car Wash, 440, West New Circle Road, Northland, Lexington, Fayette County, Kentucky, 40511, United States",
+    "lat": 38.0712851,
+    "lon": -84.4787365,
+    "type": "Zips"
+  },
+  {
+    "name": "Zips Car Wash, 9310, Mansfield Road, Hadley, Shreveport, Caddo Parish, Louisiana, 71118, United States",
+    "lat": 32.3996133,
+    "lon": -93.8075497,
+    "type": "Zips"
+  },
+  {
+    "name": "Zips Car Wash, 6810, Goodman Road, Olive Branch, DeSoto County, Mississippi, 38654, United States",
+    "lat": 34.9628039,
+    "lon": -89.8698501,
+    "type": "Zips"
+  },
+  {
+    "name": "Zips Car Wash, Liberty Avenue, Overland, Saint Louis County, Missouri, 63114, United States",
+    "lat": 38.6869518,
+    "lon": -90.3645444,
+    "type": "Zips"
+  },
+  {
+    "name": "Zips Car Wash, Oak Avenue, Lackland Park, Saint Louis County, Missouri, 63114, United States",
+    "lat": 38.6939637,
+    "lon": -90.4012789,
+    "type": "Zips"
+  },
+  {
+    "name": "Zips Car Wash, 15552, Manchester Road, Ellisville, Saint Louis County, Missouri, 63011, United States",
+    "lat": 38.5921925,
+    "lon": -90.5710173,
+    "type": "Zips"
+  },
+  {
+    "name": "Zips Car Wash, Meramec Bottom Road, Saint Louis County, Missouri, 63010, United States",
+    "lat": 38.4620053,
+    "lon": -90.3727689,
+    "type": "Zips"
+  },
+  {
+    "name": "Zips Car Wash, Heimos Industrial Park Drive, Saint Louis County, Missouri, 63129, United States",
+    "lat": 38.461951,
+    "lon": -90.3724796,
+    "type": "Zips"
+  },
+  {
+    "name": "Zips Car Wash, 7910, North Tryon Street, University City, Charlotte, Mecklenburg County, North Carolina, 28262, United States",
+    "lat": 35.2961921,
+    "lon": -80.7541255,
+    "type": "Zips"
+  },
+  {
+    "name": "Zips Car Wash, Tyvola Road, Currituck, Charlotte, Mecklenburg County, North Carolina, 28217, United States",
+    "lat": 35.1652907,
+    "lon": -80.878357,
+    "type": "Zips"
+  },
+  {
+    "name": "Zips Car Wash, 2402, Wake Forest Road, Raleigh, Wake County, North Carolina, 27608, United States",
+    "lat": 35.8134921,
+    "lon": -78.626146,
+    "type": "Zips"
+  },
+  {
+    "name": "Zips Car Wash, 125, Tunnel Road, Highland Gate, Asheville, Buncombe County, North Carolina, 28805, United States",
+    "lat": 35.5923078,
+    "lon": -82.5314088,
+    "type": "Zips"
+  },
+  {
+    "name": "Zips Car Wash, North Berkeley Boulevard, Adamsville, Goldsboro, Wayne County, North Carolina, 27534, United States",
+    "lat": 35.3746222,
+    "lon": -77.9444657,
+    "type": "Zips"
+  },
+  {
+    "name": "Zips Car Wash, 7510, Purfoy Road, Fuquay-Varina, Wake County, North Carolina, 27526, United States",
+    "lat": 35.591494,
+    "lon": -78.7742442,
+    "type": "Zips"
+  },
+  {
+    "name": "Zips Car Wash, 6317, Stadium Drive, Stadium Oaks, Rollingreen, Clemmons, Forsyth County, North Carolina, 27012, United States",
+    "lat": 36.0311595,
+    "lon": -80.3815264,
+    "type": "Zips"
+  },
+  {
+    "name": "Zips Car Wash, Broad Avenue, Maplewood, East Rockingham, Rockingham, Richmond County, North Carolina, 28379, United States",
+    "lat": 34.9189657,
+    "lon": -79.7462854,
+    "type": "Zips"
+  },
+  {
+    "name": "Zips Car Wash, Clayton Boulevard, Clayton, Johnston County, North Carolina, 37520, United States",
+    "lat": 35.6529344,
+    "lon": -78.4739937,
+    "type": "Zips"
+  },
+  {
+    "name": "Zips Car Wash, 301, Grand Hill Place, Holly Springs Towne Center, Holly Springs, Wake County, North Carolina, 27540, United States",
+    "lat": 35.6656691,
+    "lon": -78.843837,
+    "type": "Zips"
+  },
+  {
+    "name": "Zips Car Wash, 709, West Henderson Street, Marion, McDowell County, North Carolina, 28752, United States",
+    "lat": 35.6742653,
+    "lon": -82.0139636,
+    "type": "Zips"
+  },
+  {
+    "name": "Zips Car Wash, 1, Gill Road, Weaverville, Buncombe County, North Carolina, 28787, United States",
+    "lat": 35.7068771,
+    "lon": -82.5783909,
+    "type": "Zips"
+  },
+  {
+    "name": "Zips Car Wash, South Santa Fe Avenue, Santa Fe Place, Edmond, Oklahoma County, Oklahoma, 73003, United States",
+    "lat": 35.6402784,
+    "lon": -97.5133243,
+    "type": "Zips"
+  },
+  {
+    "name": "Zips Car Wash, 1604, US Highway 17 North, Seabrook Plantation, North Myrtle Beach, Horry County, South Carolina, 29582, United States",
+    "lat": 33.8437738,
+    "lon": -78.6572961,
+    "type": "Zips"
+  },
+  {
+    "name": "Zips Car Wash, Garden City Connector, Garden Grove, Garden City Beach, Horry County, South Carolina, 29587, United States",
+    "lat": 33.5895943,
+    "lon": -79.0091048,
+    "type": "Zips"
+  },
+  {
+    "name": "Zips Car Wash, 2727, North US Highway 17, Mount Pleasant, Charleston County, South Carolina, 29466, United States",
+    "lat": 32.855064,
+    "lon": -79.8001637,
+    "type": "Zips"
+  },
+  {
+    "name": "Zips Car Wash, 102, South Illinois Avenue, Robertsville, Oak Ridge, Anderson County, East Tennessee, Tennessee, 37830, United States",
+    "lat": 36.0094415,
+    "lon": -84.2688918,
+    "type": "Zips"
+  },
+  {
+    "name": "Zips Car Wash, Kingston Pike, Knoxville, Knox County, East Tennessee, Tennessee, 37934, United States",
+    "lat": 35.910283,
+    "lon": -84.0897886,
+    "type": "Zips"
+  },
+  {
+    "name": "Zips Car Wash, Bandera Road, San Antonio, Bexar County, Texas, 78254, United States",
+    "lat": 29.5558286,
+    "lon": -98.6683339,
+    "type": "Zips"
+  },
+  {
+    "name": "Zips Car Wash, 2806, Richmond Road, Texarkana, Bowie County, Texas, 75503, United States",
+    "lat": 33.4614774,
+    "lon": -94.0911115,
+    "type": "Zips"
+  },
+  {
+    "name": "Zips Car Wash, 4311, North State Line Avenue, Texarkana, Bowie County, Texas, 75503, United States",
+    "lat": 33.4586842,
+    "lon": -94.0436648,
+    "type": "Zips"
+  },
+  {
+    "name": "Zips Car Wash, 5090, West University Drive, Prosper, Denton County, Texas, 75078, United States",
+    "lat": 33.2198401,
+    "lon": -96.8850648,
+    "type": "Zips"
+  },
+  {
+    "name": "Zips Car Wash, Stacy Road, McKinney, Collin County, Texas, 75070, United States",
+    "lat": 33.1511083,
+    "lon": -96.6988509,
+    "type": "Zips"
+  },
+  {
+    "name": "Zips Car Wash, Sherry Lane, Westworth Village, Tarrant County, Texas, 76127, United States",
+    "lat": 32.7542179,
+    "lon": -97.4282472,
+    "type": "Zips"
+  },
+  {
+    "name": "Zips, 3805, Wards Road, Lynchburg, Virginia, 24502, United States",
+    "lat": 37.3533264,
+    "lon": -79.1826831,
+    "type": "Zips"
+  },
+  {
+    "name": "Zips Car Wash, 3107, West Wedington Drive, Fayetteville, Washington County, Arkansas, 72704, United States",
+    "lat": 36.077843,
+    "lon": -94.2035166,
+    "type": "Zips"
+  },
+  {
+    "name": "Zips Car Wash, West Johnson Street, Fond du Lac, Fond du Lac County, Wisconsin, 54935, United States",
+    "lat": 43.7839202,
+    "lon": -88.4512757,
+    "type": "Zips"
+  },
+  {
+    "name": "Tidal Wave Auto Spa, East I-65 Service Road North, South Crichton, Mobile, Mobile County, Alabama, 36607, United States",
+    "lat": 30.6896427,
+    "lon": -88.1236759,
+    "type": "Tidal"
+  },
+  {
+    "name": "Tidal Wave Auto Spa, Hitt Road, Pine Run, Mobile, Mobile County, Alabama, 36695, United States",
+    "lat": 30.6695576,
+    "lon": -88.2237723,
+    "type": "Tidal"
+  },
+  {
+    "name": "Tidal Wave Auto Spa, 2789, Kenton Morrison Road, Saint Johns County, Florida, 32084, United States",
+    "lat": 29.9156183,
+    "lon": -81.3614192,
+    "type": "Tidal"
+  },
+  {
+    "name": "Tidal Wave Auto Spa, 252, North Tyndall Parkway, Callaway, Bay County, Florida, 32404, United States",
+    "lat": 30.151598,
+    "lon": -85.5905463,
+    "type": "Tidal"
+  },
+  {
+    "name": "Tidal Wave Auto Spa, Atmore Grove Drive, Lakeview at Calusa Trace, Cheval, Hillsborough County, Florida, 33548, United States",
+    "lat": 28.1328682,
+    "lon": -82.5015928,
+    "type": "Tidal"
+  },
+  {
+    "name": "Tidal Wave Auto Spa, North Dale Mabry Highway, Lakeview at Calusa Trace, Cheval, Hillsborough County, Florida, 33618, United States",
+    "lat": 28.1334177,
+    "lon": -82.50172,
+    "type": "Tidal"
+  },
+  {
+    "name": "Tidal Wave Auto Spa, Sun Vista Drive, Cypress Creek Town Center, Wesley Chapel, Pasco County, Florida, 33559, United States",
+    "lat": 28.1896711,
+    "lon": -82.3955196,
+    "type": "Tidal"
+  },
+  {
+    "name": "Tidal Wave Auto Spa, Cascade Road, South Fulton, Fulton County, Georgia, 30331, United States",
+    "lat": 33.7235323,
+    "lon": -84.5064017,
+    "type": "Tidal"
+  },
+  {
+    "name": "Tidal Wave Auto Spa, Jimmie Daniel Road, Fairfield, Athens, Clarke County, Georgia, 30622, United States",
+    "lat": 33.9398467,
+    "lon": -83.4894203,
+    "type": "Tidal"
+  },
+  {
+    "name": "Tidal Wave Auto Spa, Washington Road, Augusta, Richmond County, Georgia, 30907, United States",
+    "lat": 33.5115886,
+    "lon": -82.0349313,
+    "type": "Tidal"
+  },
+  {
+    "name": "Tidal Wave Auto Spa, 4250, Miller Road, Columbus, Muscogee County, Georgia, 31909, United States",
+    "lat": 32.5225688,
+    "lon": -84.9163502,
+    "type": "Tidal"
+  },
+  {
+    "name": "Tidal Wave Auto Spa, 1564, Holcomb Bridge Road, Roswell, Fulton County, Georgia, 30076, United States",
+    "lat": 34.0189647,
+    "lon": -84.313804,
+    "type": "Tidal"
+  },
+  {
+    "name": "Tidal Wave Auto Spa, South Houston Lake Road, Warner Robins, Houston County, Georgia, 31088, United States",
+    "lat": 32.553314,
+    "lon": -83.6615585,
+    "type": "Tidal"
+  },
+  {
+    "name": "Tidal Wave Auto Spa, Gwinnett Drive, Lawrenceville Town Center, Lawrenceville, Gwinnett County, Georgia, 30045, United States",
+    "lat": 33.9406719,
+    "lon": -83.9828165,
+    "type": "Tidal"
+  },
+  {
+    "name": "Tidal Wave Auto Spa, Hampton Road, Henry County, Georgia, 30353, United States",
+    "lat": 33.426664,
+    "lon": -84.1831289,
+    "type": "Tidal"
+  },
+  {
+    "name": "Tidal Wave Auto Spa, Cobb Parkway, Blue Springs, Acworth, Cobb County, Georgia, 30152, United States",
+    "lat": 34.0310966,
+    "lon": -84.6560719,
+    "type": "Tidal"
+  },
+  {
+    "name": "Tidal Wave Auto Spa, Jiles Way, Giles Crossing, Kennesaw, Cobb County, Georgia, 30144, United States",
+    "lat": 34.0493881,
+    "lon": -84.6134501,
+    "type": "Tidal"
+  },
+  {
+    "name": "Tidal Wave Auto Spa, 3144, Canton Road, Addison Heights, Cobb County, Georgia, 30066, United States",
+    "lat": 34.0282654,
+    "lon": -84.5275183,
+    "type": "Tidal"
+  },
+  {
+    "name": "Tidal Wave Auto Spa, Parkway Pointe Drive, Barrow County, Georgia, 30620, United States",
+    "lat": 33.9453653,
+    "lon": -83.7580441,
+    "type": "Tidal"
+  },
+  {
+    "name": "Tidal Wave Auto Spa, Washington Road, McDuffie County, Georgia, 30824, United States",
+    "lat": 33.5071451,
+    "lon": -82.502168,
+    "type": "Tidal"
+  },
+  {
+    "name": "Tidal Wave Auto Spa, East Roosevelt Road, Lombard, DuPage County, Illinois, 60148, United States",
+    "lat": 41.860777,
+    "lon": -88.0080588,
+    "type": "Tidal"
+  },
+  {
+    "name": "Tidal Wave Auto Spa, 1260, Lake Avenue, Woodstock, McHenry County, Illinois, 60098, United States",
+    "lat": 42.2967289,
+    "lon": -88.4257529,
+    "type": "Tidal"
+  },
+  {
+    "name": "Tidal Wave Auto Spa, 2541, Northwest Arterial, West End District, Dubuque, Dubuque County, Iowa, 52002, United States",
+    "lat": 42.5200899,
+    "lon": -90.7409873,
+    "type": "Tidal"
+  },
+  {
+    "name": "Tidal Wave Auto Spa, 416, Brandilynn Boulevard, Cedar Falls, Black Hawk County, Iowa, 50613, United States",
+    "lat": 42.4843717,
+    "lon": -92.4417269,
+    "type": "Tidal"
+  },
+  {
+    "name": "Tidal Wave Auto Spa, 11410, Forest Avenue, Clive, Polk County, Iowa, 50325, United States",
+    "lat": 41.6010299,
+    "lon": -93.7744444,
+    "type": "Tidal"
+  },
+  {
+    "name": "Tidal Wave Auto Spa, Parallel Parkway, Maywood, Kansas City, Wyandotte County, Kansas, 66109, United States",
+    "lat": 39.1298344,
+    "lon": -94.8280247,
+    "type": "Tidal"
+  },
+  {
+    "name": "Tidal Wave Auto Spa, 12500, Shawnee Mission Parkway, Shawnee, Johnson County, Kansas, 66216, United States",
+    "lat": 39.0150995,
+    "lon": -94.7314459,
+    "type": "Tidal"
+  },
+  {
+    "name": "Tidal Wave Auto Spa, 6501, Johnson Drive, Mission, Johnson County, Kansas, 66217, United States",
+    "lat": 39.0217854,
+    "lon": -94.6610665,
+    "type": "Tidal"
+  },
+  {
+    "name": "Tidal Wave Auto Spa, 12500, Shawnee Mission Parkway, Shawnee, Johnson County, Kansas, 66216, United States",
+    "lat": 39.0152247,
+    "lon": -94.7314492,
+    "type": "Tidal"
+  },
+  {
+    "name": "Tidal Wave Auto Spa, 2054, Lantern Ridge Drive, Richmond Centre, Richmond, Madison County, Kentucky, 40475, United States",
+    "lat": 37.7369197,
+    "lon": -84.3301314,
+    "type": "Tidal"
+  },
+  {
+    "name": "Tidal Wave Auto Spa, Fort Campbell Boulevard, Masonville, Hopkinsville, Christian County, Kentucky, 42240, United States",
+    "lat": 36.8280623,
+    "lon": -87.473761,
+    "type": "Tidal"
+  },
+  {
+    "name": "Tidal Wave Auto Spa, North Dixie Boulevard, Radcliff, Hardin County, Kentucky, 40160, United States",
+    "lat": 37.8417412,
+    "lon": -85.9391483,
+    "type": "Tidal"
+  },
+  {
+    "name": "Tidal Wave Auto Spa, 240, North Dixie Boulevard, Radcliff, Hardin County, Kentucky, 40160, United States",
+    "lat": 37.8418886,
+    "lon": -85.939344,
+    "type": "Tidal"
+  },
+  {
+    "name": "Tidal Wave Auto Spa, 7105, Otter Lake Road, Hugo, Anoka County, Minnesota, 55038, United States",
+    "lat": 45.1647327,
+    "lon": -93.0270873,
+    "type": "Tidal"
+  },
+  {
+    "name": "Tidal Wave Auto Spa, 2300, 2nd Avenue Southeast, Cambridge, Isanti County, Minnesota, 55008, United States",
+    "lat": 45.5723928,
+    "lon": -93.1957219,
+    "type": "Tidal"
+  },
+  {
+    "name": "Tidal Wave Auto Spa, 727, Corporal M.E. Webster Memorial Parkway, Blue Springs, Jackson County, Missouri, 64015, United States",
+    "lat": 39.0098565,
+    "lon": -94.2743409,
+    "type": "Tidal"
+  },
+  {
+    "name": "Tidal Wave Auto Spa, West Babcock Street, Kirk, Bozeman, Gallatin County, Montana, 59715, United States",
+    "lat": 45.6780106,
+    "lon": -111.0656939,
+    "type": "Tidal"
+  },
+  {
+    "name": "Tidal Wave Auto Spa, 10th Avenue South, Southeast, Great Falls, Cascade County, Montana, 59405, United States",
+    "lat": 47.4943008,
+    "lon": -111.2537933,
+    "type": "Tidal"
+  },
+  {
+    "name": "Tidal Wave Auto Spa, 3310, Avenue I, Scottsbluff, Scotts Bluff County, Nebraska, 69361, United States",
+    "lat": 41.8793004,
+    "lon": -103.6761325,
+    "type": "Tidal"
+  },
+  {
+    "name": "Tidal Wave Auto Spa, 4725, New Bern Avenue, Wilders Grove, Raleigh, Wake County, North Carolina, 27610, United States",
+    "lat": 35.7981286,
+    "lon": -78.5557514,
+    "type": "Tidal"
+  },
+  {
+    "name": "Tidal Wave Auto Spa, East River Way, Deep River, High Point, Guilford County, North Carolina, 27282, United States",
+    "lat": 36.031544,
+    "lon": -79.9626372,
+    "type": "Tidal"
+  },
+  {
+    "name": "Tidal Wave Auto Spa, 1895, Baltimore Pike, Bandanna, Hanover, York County, Pennsylvania, 17331, United States",
+    "lat": 39.7614155,
+    "lon": -76.9593256,
+    "type": "Tidal"
+  },
+  {
+    "name": "Tidal Wave Auto Spa, Conneaut Lake Road, Vernon Township, Crawford County, Pennsylvania, 16335, United States",
+    "lat": 41.6203929,
+    "lon": -80.169935,
+    "type": "Tidal"
+  },
+  {
+    "name": "Tidal Wave Auto Spa, West DeKalb Street, Camden, Kershaw County, South Carolina, United States",
+    "lat": 34.248378,
+    "lon": -80.6485089,
+    "type": "Tidal"
+  },
+  {
+    "name": "Tidal Wave Auto Spa, Rivers Avenue, North Charleston, Charleston County, South Carolina, 29406, United States",
+    "lat": 32.9531403,
+    "lon": -80.0426668,
+    "type": "Tidal"
+  },
+  {
+    "name": "Tidal Wave Auto Spa, Killian Road, Richland County, South Carolina, 29203, United States",
+    "lat": 34.1414604,
+    "lon": -80.9489551,
+    "type": "Tidal"
+  },
+  {
+    "name": "Tidal Wave Auto Spa, Roberts Branch Parkway, Richland County, South Carolina, 31299, United States",
+    "lat": 34.1415564,
+    "lon": -80.9490917,
+    "type": "Tidal"
+  },
+  {
+    "name": "Tidal Wave Auto Spa, North Dill Avenue, King Acres, Greer, Greenville County, South Carolina, 29651, United States",
+    "lat": 34.9384014,
+    "lon": -82.2709989,
+    "type": "Tidal"
+  },
+  {
+    "name": "Tidal Wave Auto Spa, Clemson Road, Summit Townes, Richland County, South Carolina, 29223, United States",
+    "lat": 34.1345867,
+    "lon": -80.8798796,
+    "type": "Tidal"
+  },
+  {
+    "name": "Tidal Wave Auto Spa, 1650, North Germantown Parkway, Cordova, Memphis, Shelby County, West Tennessee, Tennessee, 38016, United States",
+    "lat": 35.1703907,
+    "lon": -89.7924473,
+    "type": "Tidal"
+  },
+  {
+    "name": "Tidal Wave Auto Spa, Northside Creek, Shelbyville, Bedford County, Middle Tennessee, Tennessee, 37160, United States",
+    "lat": 35.5119529,
+    "lon": -86.4564578,
+    "type": "Tidal"
+  },
+  {
+    "name": "Tidal Wave Auto Spa, Mineral Wells Avenue, Hancock, Paris, Henry County, West Tennessee, Tennessee, 38242, United States",
+    "lat": 36.2826315,
+    "lon": -88.3071585,
+    "type": "Tidal"
+  },
+  {
+    "name": "Tidal Wave Auto Spa, 1319, Corsicana Highway, Hillsboro, Hill County, Texas, 76645, United States",
+    "lat": 32.0085955,
+    "lon": -97.0992076,
+    "type": "Tidal"
+  },
+  {
+    "name": "Tidal Wave Auto Spa, 8616, Davis Boulevard, North Richland Hills, Tarrant County, Texas, 76182, United States",
+    "lat": 32.9108282,
+    "lon": -97.187683,
+    "type": "Tidal"
+  },
+  {
+    "name": "Tidal Wave Auto Spa, Falcon Landing Boulevard, Fort Bend County, Texas, 25826, United States",
+    "lat": 29.7351601,
+    "lon": -95.8078013,
+    "type": "Tidal"
+  },
+  {
+    "name": "Tidal Wave Auto Spa, Falcon Landing Boulevard, Fort Bend County, Texas, 25826, United States",
+    "lat": 29.7353856,
+    "lon": -95.8079639,
+    "type": "Tidal"
+  },
+  {
+    "name": "Tidal Wave Auto Spa, Mall Drive, The Point, Chesterfield County, Virginia, 23235, United States",
+    "lat": 37.5123311,
+    "lon": -77.6073853,
+    "type": "Tidal"
+  },
+  {
+    "name": "Tidal Wave Auto Spa, 7027, George Washington Memorial Highway, Money, Gloucester County, Virginia, 23061, United States",
+    "lat": 37.3917881,
+    "lon": -76.5286798,
+    "type": "Tidal"
+  },
+  {
+    "name": "Tidal Wave Auto Spa, Ira Hoffman Lane, Culpeper Marketplace, Culpeper County, Virginia, 22701, United States",
+    "lat": 38.4827885,
+    "lon": -77.9727183,
+    "type": "Tidal"
+  },
+  {
+    "name": "Tidal Wave Auto Spa, Washington Road, Augusta, Richmond County, Georgia, 30907, United States",
+    "lat": 33.5115886,
+    "lon": -82.0349313,
+    "type": "Tidal"
+  },
+  {
+    "name": "Tidal Wave Auto Spa, 7027, George Washington Memorial Highway, Money, Gloucester County, Virginia, 23061, United States",
+    "lat": 37.3917881,
+    "lon": -76.5286798,
+    "type": "Tidal"
+  },
+  {
+    "name": "Tidal Wave Auto Spa, Washington Road, McDuffie County, Georgia, 30824, United States",
+    "lat": 33.5071451,
+    "lon": -82.502168,
+    "type": "Tidal"
+  },
+  {
+    "name": "Tommy's Express Car Wash, 1821, South Caraway Road, Jonesboro, Craighead County, Arkansas, 72401, United States",
+    "lat": 35.8220477,
+    "lon": -90.6785459,
+    "type": "Tommy"
+  },
+  {
+    "name": "Tommy's Express Car Wash, 520, South Euclid Street, Fullerton, Orange County, California, 92832, United States",
+    "lat": 33.8655307,
+    "lon": -117.941649,
+    "type": "Tommy"
+  },
+  {
+    "name": "Tommy's Express Car Wash, Foothills Boulevard, Roseville, Placer County, California, 95678, United States",
+    "lat": 38.7424451,
+    "lon": -121.3098373,
+    "type": "Tommy"
+  },
+  {
+    "name": "Tommy's Express Car Wash, 4089, Tutt Boulevard, Colorado Springs, El Paso County, Colorado, 80922, United States",
+    "lat": 38.890731,
+    "lon": -104.7141281,
+    "type": "Tommy"
+  },
+  {
+    "name": "Tommy's Express Car Wash, 1240, Missouri Avenue North, Largo, Pinellas County, Florida, 33770, United States",
+    "lat": 27.9285597,
+    "lon": -82.787031,
+    "type": "Tommy"
+  },
+  {
+    "name": "Tommy's Express Car Wash, 2800, Veterans Way, Melbourne, Brevard County, Florida, 32940, United States",
+    "lat": 28.2555142,
+    "lon": -80.7385934,
+    "type": "Tommy"
+  },
+  {
+    "name": "Tommy's Express\u00ae Car Wash, Riverside Drive, Thornwood, Macon, Bibb County, Georgia, 31210, United States",
+    "lat": 32.8780584,
+    "lon": -83.6673201,
+    "type": "Tommy"
+  },
+  {
+    "name": "Tommy's Express Car Wash, Tara Boulevard, Charlotte Woods, Jonesboro, Clayton County, Georgia, 30236, United States",
+    "lat": 33.5308023,
+    "lon": -84.3628168,
+    "type": "Tommy"
+  },
+  {
+    "name": "Tommy's Express Car Wash, North Avenue, Lombard, DuPage County, Illinois, 60101, United States",
+    "lat": 41.9038499,
+    "lon": -88.0331528,
+    "type": "Tommy"
+  },
+  {
+    "name": "Tommy's Express Car Wash, 7950, State Route 66, Newburgh, Warrick County, Indiana, 47630, United States",
+    "lat": 37.9769215,
+    "lon": -87.3945945,
+    "type": "Tommy"
+  },
+  {
+    "name": "Tommy's Express Car wash, East 10th Street, Jeffersonville, Clark County, Indiana, 47130, United States",
+    "lat": 38.3340218,
+    "lon": -85.7083071,
+    "type": "Tommy"
+  },
+  {
+    "name": "Tommy's Express Car Wash, East 42nd Street, Davenport, Scott County, Iowa, 52806, United States",
+    "lat": 41.5633393,
+    "lon": -90.5685483,
+    "type": "Tommy"
+  },
+  {
+    "name": "Tommy's Express Car Wash, 4001, 1st Avenue East, Kenwood Park, Cedar Rapids, Linn County, Iowa, 52402, United States",
+    "lat": 42.0203018,
+    "lon": -91.6308745,
+    "type": "Tommy"
+  },
+  {
+    "name": "Tommy's Express Car Wash, 645, South 60th Street, West Des Moines, Boone Township, Dallas County, Iowa, 50266, United States",
+    "lat": 41.5610913,
+    "lon": -93.7912968,
+    "type": "Tommy"
+  },
+  {
+    "name": "Tommy's Express Car Wash, 3900, West 6th Street, Lawrence, Douglas County, Kansas, 66049, United States",
+    "lat": 38.9720909,
+    "lon": -95.2887561,
+    "type": "Tommy"
+  },
+  {
+    "name": "Tommy's Express Car Wash, 510, Tuttle Creek Boulevard, Manhattan, Riley County, Kansas, 66502, United States",
+    "lat": 39.18316,
+    "lon": -96.557602,
+    "type": "Tommy"
+  },
+  {
+    "name": "Tommy's Express Car Wash, 1350, Westloop Place, Westloop Shopping Center, Manhattan, Riley County, Kansas, 66502, United States",
+    "lat": 39.1924196,
+    "lon": -96.610561,
+    "type": "Tommy"
+  },
+  {
+    "name": "Tommy's Express Car Wash, 10600, Roe Avenue, Overland Park, Johnson County, Kansas, 66211, United States",
+    "lat": 38.9361052,
+    "lon": -94.6403345,
+    "type": "Tommy"
+  },
+  {
+    "name": "Tommy's Express Car Wash, 2524, Vine Street, Hays, Ellis County, Kansas, 67601, United States",
+    "lat": 38.8841302,
+    "lon": -99.3171793,
+    "type": "Tommy"
+  },
+  {
+    "name": "Tommy's Express Car Wash, 6415, South Cedar Street, Lansing, Ingham County, Michigan, 48911, United States",
+    "lat": 42.6648346,
+    "lon": -84.5401581,
+    "type": "Tommy"
+  },
+  {
+    "name": "Tommy\u2019s Express Car Wash, 44th Street Southwest, Grandville, Kent County, Michigan, 49509, United States",
+    "lat": 42.885056,
+    "lon": -85.736714,
+    "type": "Tommy"
+  },
+  {
+    "name": "Tommy's Express Car Wash, 4095, Plainfield Avenue Northeast, Northview, Plainfield Charter Township, Grand Rapids, Kent County, Michigan, 49525, United States",
+    "lat": 43.0379968,
+    "lon": -85.6139449,
+    "type": "Tommy"
+  },
+  {
+    "name": "Tommy's Express Car Wash, Cherry Valley Avenue Southeast, Caledonia Charter Township, Caledonia, Kent County, Michigan, 49316, United States",
+    "lat": 42.792644,
+    "lon": -85.5074247,
+    "type": "Tommy"
+  },
+  {
+    "name": "Tommy's Express Car Wash, 1377, West Main Street, Gaylord, Otsego County, Michigan, 49735, United States",
+    "lat": 45.0270627,
+    "lon": -84.6980515,
+    "type": "Tommy"
+  },
+  {
+    "name": "Tommy's Express Car Wash, Dix-Toledo Highway, Southgate, Wayne County, Michigan, 48195, United States",
+    "lat": 42.1985349,
+    "lon": -83.211079,
+    "type": "Tommy"
+  },
+  {
+    "name": "Tommy\u2019s Express\u00ae Car Wash, 4665, 32nd Avenue, Hudsonville, Ottawa County, Michigan, 49426, United States",
+    "lat": 42.8543604,
+    "lon": -85.8617282,
+    "type": "Tommy"
+  },
+  {
+    "name": "Tommy's Express Car Wash, 265, Penny Lane Northeast, Rochester, Olmsted County, Minnesota, 55906, United States",
+    "lat": 44.0595361,
+    "lon": -92.4595196,
+    "type": "Tommy"
+  },
+  {
+    "name": "Tommy's Express\u00ae Car Wash, 4252, 122nd Lane Northeast, Blaine, Anoka County, Minnesota, 55449, United States",
+    "lat": 45.1913143,
+    "lon": -93.1619794,
+    "type": "Tommy"
+  },
+  {
+    "name": "Tommy's Express Car Wash (Inc. Short-Visits), Mounds View Boulevard, Mounds View, Ramsey County, Minnesota, 55112, United States",
+    "lat": 45.1053621,
+    "lon": -93.2083062,
+    "type": "Tommy"
+  },
+  {
+    "name": "Tommy's Express Car Wash, 1240, Missouri Avenue North, Largo, Pinellas County, Florida, 33770, United States",
+    "lat": 27.9285597,
+    "lon": -82.787031,
+    "type": "Tommy"
+  },
+  {
+    "name": "Tommy's Express Car Wash, 150, North 70th Street, Meadowlane, Bethany, Lincoln, Lancaster County, Nebraska, 68505, United States",
+    "lat": 40.8142806,
+    "lon": -96.6244356,
+    "type": "Tommy"
+  },
+  {
+    "name": "Tommy's Express Car Wash, 1402, South Washington Street, Papillion, Sarpy County, Nebraska, 68046, United States",
+    "lat": 41.1395067,
+    "lon": -96.0436294,
+    "type": "Tommy"
+  },
+  {
+    "name": "Tommy's Express, South Nellis Boulevard, Sunrise Manor, Las Vegas Valley, Clark County, Nevada, 89142, United States",
+    "lat": 36.1380901,
+    "lon": -115.0649028,
+    "type": "Tommy"
+  },
+  {
+    "name": "Tommy's Express, 400, Greenville Boulevard Southeast, Brentwood, Greenville, Pitt County, North Carolina, 27858, United States",
+    "lat": 35.5822722,
+    "lon": -77.3738601,
+    "type": "Tommy"
+  },
+  {
+    "name": "Tommy's Express Car Wash, East Hillside Drive, Broken Arrow, Tulsa County, Oklahoma, 74102, United States",
+    "lat": 36.062636,
+    "lon": -95.7668886,
+    "type": "Tommy"
+  },
+  {
+    "name": "Tommy's Express Car Wash, East 116th Street North, Owasso, Tulsa County, Oklahoma, 74021, United States",
+    "lat": 36.3228016,
+    "lon": -95.8254217,
+    "type": "Tommy"
+  },
+  {
+    "name": "Tommy's Express Car Wash, 798, East Main Street, Ephrata, Lancaster County, Pennsylvania, 17522, United States",
+    "lat": 40.1660977,
+    "lon": -76.1603323,
+    "type": "Tommy"
+  },
+  {
+    "name": "Tommy's Express, North Main Street, Weatherstone, Summerville, Berkeley County, South Carolina, 28493, United States",
+    "lat": 33.0366311,
+    "lon": -80.1539286,
+    "type": "Tommy"
+  },
+  {
+    "name": "Tommy's Express Car Wash, 1415, US 11W, Bristol, Sullivan County, East Tennessee, Tennessee, 37620, United States",
+    "lat": 36.5896018,
+    "lon": -82.2669142,
+    "type": "Tommy"
+  },
+  {
+    "name": "Tommy's Express Car Wash, 477, Potomac Place, Smyrna, Rutherford County, Middle Tennessee, Tennessee, 37167, United States",
+    "lat": 35.9819672,
+    "lon": -86.5588905,
+    "type": "Tommy"
+  },
+  {
+    "name": "Tommy's Express Car Wash, Jacinth Lane, Franklin Road Estates, Murfreesboro, Rutherford County, Middle Tennessee, Tennessee, 37128, United States",
+    "lat": 35.8432653,
+    "lon": -86.4870742,
+    "type": "Tommy"
+  },
+  {
+    "name": "Tommy's Express Car Wash, 6010, Lowes Lane, Amarillo, Potter County, Texas, 79106, United States",
+    "lat": 35.2104451,
+    "lon": -101.9032529,
+    "type": "Tommy"
+  },
+  {
+    "name": "Tommy's Express Car Wash, 6010, Lowes Lane, Amarillo, Potter County, Texas, 79106, United States",
+    "lat": 35.2104263,
+    "lon": -101.9033415,
+    "type": "Tommy"
+  },
+  {
+    "name": "Tommy's Express Car Wash, 2150, West Antelope Drive, Clearfield, Davis County, Utah, 84015, United States",
+    "lat": 41.0896935,
+    "lon": -112.006579,
+    "type": "Tommy"
+  },
+  {
+    "name": "Tommy\u2019s Express Car Wash, 7048, Forest Hill Avenue, Southhampton Hills, Richmond, Virginia, 23225, United States",
+    "lat": 37.5381241,
+    "lon": -77.5265866,
+    "type": "Tommy"
+  },
+  {
+    "name": "Tommy's Express Car Wash, Arlington Road, Ginter Park, Richmond, Virginia, 23230, United States",
+    "lat": 37.5751064,
+    "lon": -77.4639581,
+    "type": "Tommy"
+  },
+  {
+    "name": "Tommy's Express Car Wash, Hull Street Road, Mayfair Estates, Chesterfield County, Virginia, 23832, United States",
+    "lat": 37.4436818,
+    "lon": -77.582377,
+    "type": "Tommy"
+  },
+  {
+    "name": "Tommy's Express Car Wash, 1402, South Washington Street, Papillion, Sarpy County, Nebraska, 68046, United States",
+    "lat": 41.1395067,
+    "lon": -96.0436294,
+    "type": "Tommy"
+  },
+  {
+    "name": "Tommy's Express\u00ae Car Wash, 1000, West Clairemont Avenue, Upper Campus, Eau Claire, Eau Claire County, Wisconsin, 54701, United States",
+    "lat": 44.7936885,
+    "lon": -91.5142694,
+    "type": "Tommy"
+  },
+  {
+    "name": "Tommy's Express Car Wash, 102, West Bridge Street, Riverlife, Wausau, Marathon County, Wisconsin, 54401, United States",
+    "lat": 44.9704722,
+    "lon": -89.6372981,
+    "type": "Tommy"
+  },
+  {
+    "name": "Tommy's Express Car Wash, Division Street, Stevens Point, Portage County, Wisconsin, 54481, United States",
+    "lat": 44.5350614,
+    "lon": -89.574642,
+    "type": "Tommy"
+  },
+  {
+    "name": "Tommy's Express Car Wash, 1611, Schofield Avenue, Schofield, Marathon County, Wisconsin, 54476, United States",
+    "lat": 44.9086699,
+    "lon": -89.6030928,
+    "type": "Tommy"
+  },
+  {
+    "name": "Tommy's Express, 801, Edwards Street, Gillette, Campbell County, Wyoming, 82718, United States",
+    "lat": 44.2681913,
+    "lon": -105.4929686,
+    "type": "Tommy"
   }
 ]
