@@ -59,7 +59,6 @@ function clearMarkers() {
   markers = [];
 }
 
-// 📂 Load from static locations.json
 async function loadFromJSON() {
   try {
     const res = await fetch("locations.json");
@@ -67,13 +66,23 @@ async function loadFromJSON() {
 
     let bounds = [];
 
-    data.forEach(loc => {
+    data.forEach((loc, index) => {
       const latlng = [loc.lat, loc.lon];
+      const icon = icons[loc.type];
+
+      // 👇 Log what you're about to try
+      console.log(`Processing #${index + 1}: ${loc.name} (type: ${loc.type})`);
+
+      if (!icon) {
+        console.error(`❌ Missing or unknown icon type: "${loc.type}" for "${loc.name}"`);
+      }
+
       const marker = L.marker(latlng, {
-        icon: icons[loc.type] || undefined
+        icon: icon || defaultIcon  // 🔐 use fallback to avoid crash
       })
         .addTo(map)
         .bindPopup(`<b>${loc.name}</b>`);
+
       markers.push(marker);
       bounds.push(latlng);
     });
@@ -87,6 +96,7 @@ async function loadFromJSON() {
     alert("Could not load map data.");
   }
 }
+
 
 // 🗺️ Init map
 function initMap() {
