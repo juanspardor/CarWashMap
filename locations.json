@@ -1,14 +1,602 @@
 [
   {
-    "name": "Mister Car Wash",
+    "name": "Mister Car Wash #1",
     "lat": 33.8362076,
     "lon": -84.3686987,
     "type": "Mister"
   },
   {
-    "name": "Take 5 Car Wash",
+    "name": "Mister Car Wash #2",
+    "lat": 29.7696727,
+    "lon": -95.3956073,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash #3",
+    "lat": 29.7150015,
+    "lon": -95.4960177,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash #4",
+    "lat": 29.689642,
+    "lon": -95.4190943,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash #5",
+    "lat": 29.7434861,
+    "lon": -95.500278,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash #6",
+    "lat": 29.8276761,
+    "lon": -95.4086605,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash #7",
+    "lat": 29.6710013,
+    "lon": -95.4632553,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash #8",
+    "lat": 29.7043845,
+    "lon": -95.5176422,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash #9",
+    "lat": 29.787158,
+    "lon": -95.5432678,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash #10",
+    "lat": 29.7057276,
+    "lon": -95.4108229,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash #11",
+    "lat": 29.7864281,
+    "lon": -95.6879539,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash #12",
+    "lat": 29.7374315,
+    "lon": -95.4788323,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash #13",
+    "lat": 29.736621,
+    "lon": -95.419416,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash #14",
+    "lat": 30.3589353,
+    "lon": -97.7172033,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash #15",
+    "lat": 36.0932173,
+    "lon": -86.6517416,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash #16",
+    "lat": 40.7376398,
+    "lon": -111.9005896,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash #17",
+    "lat": 40.7338623,
+    "lon": -111.8200784,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash #18",
+    "lat": 28.4945531,
+    "lon": -81.4228026,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash #19",
+    "lat": 27.9612221,
+    "lon": -82.5060079,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash #20",
+    "lat": 27.8931475,
+    "lon": -82.5033227,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash #21",
+    "lat": 32.2208799,
+    "lon": -110.9601287,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash #22",
+    "lat": 32.22882,
+    "lon": -110.9683467,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash #23",
+    "lat": 32.2070326,
+    "lon": -110.8573278,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash #24",
+    "lat": 32.2355568,
+    "lon": -110.8822783,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash #25",
+    "lat": 32.2365053,
+    "lon": -110.9263264,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash #26",
+    "lat": 31.8833513,
+    "lon": -106.5774287,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash #27",
+    "lat": 31.7600415,
+    "lon": -106.2720086,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash #28",
+    "lat": 43.0581654,
+    "lon": -89.3995197,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash #29",
+    "lat": 43.0842982,
+    "lon": -89.3697881,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash #30",
+    "lat": 43.0729848,
+    "lon": -89.4241095,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash #31",
+    "lat": 35.1410776,
+    "lon": -106.5873236,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash #32",
+    "lat": 35.1748602,
+    "lon": -106.5764629,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash #33",
+    "lat": 35.1173033,
+    "lon": -106.702711,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash #34",
+    "lat": 35.2180878,
+    "lon": -106.6633687,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash #35",
+    "lat": 44.9545633,
+    "lon": -93.0803508,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash #36",
+    "lat": 41.6245897,
+    "lon": -93.6972771,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash #37",
+    "lat": 41.586069,
+    "lon": -93.6517524,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash #38",
+    "lat": 41.553224,
+    "lon": -93.5978062,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash #39",
+    "lat": 38.8933248,
+    "lon": -104.7569194,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash #40",
+    "lat": 38.9395581,
+    "lon": -104.7271543,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash #41",
+    "lat": 38.8702052,
+    "lon": -104.716545,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash #42",
+    "lat": 33.5289214,
+    "lon": -101.9058265,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash #43",
+    "lat": 33.5914181,
+    "lon": -101.9330925,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash #44",
+    "lat": 33.5191866,
+    "lon": -101.9449572,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash #45",
+    "lat": 33.5182922,
+    "lon": -101.8871556,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash #46",
+    "lat": 42.9887913,
+    "lon": -87.9391083,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash #47",
+    "lat": 42.9580206,
+    "lon": -87.9494107,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash #48",
+    "lat": 42.9132418,
+    "lon": -85.5738253,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash #49",
+    "lat": 42.9695834,
+    "lon": -85.638868,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash #50",
+    "lat": 43.6175514,
+    "lon": -116.2112781,
+    "type": "Mister"
+  },
+  {
+    "name": "Take 5 Car Wash #1",
     "lat": 37.3975542,
     "lon": -79.2243702,
+    "type": "Take"
+  },
+  {
+    "name": "Take 5 Car Wash #2",
+    "lat": 35.119842,
+    "lon": -89.796514,
+    "type": "Take"
+  },
+  {
+    "name": "Take 5 Car Wash #3",
+    "lat": 35.1485044,
+    "lon": -89.9155144,
+    "type": "Take"
+  },
+  {
+    "name": "Take 5 Car Wash #4",
+    "lat": 32.9028036,
+    "lon": -97.2566511,
+    "type": "Take"
+  },
+  {
+    "name": "Take 5 Car Wash #5",
+    "lat": 30.2870816,
+    "lon": -81.4620757,
+    "type": "Take"
+  },
+  {
+    "name": "Take 5 Car Wash #6",
+    "lat": 43.029519,
+    "lon": -89.4099334,
+    "type": "Take"
+  },
+  {
+    "name": "Take 5 Car Wash #7",
+    "lat": 36.0614155,
+    "lon": -95.7415469,
+    "type": "Take"
+  },
+  {
+    "name": "Take 5 Car Wash #8",
+    "lat": 36.0906144,
+    "lon": -95.922919,
+    "type": "Take"
+  },
+  {
+    "name": "Take 5 Car Wash #9",
+    "lat": 38.8333561,
+    "lon": -104.757854,
+    "type": "Take"
+  },
+  {
+    "name": "Take 5 Car Wash #10",
+    "lat": 38.8973293,
+    "lon": -104.8389309,
+    "type": "Take"
+  },
+  {
+    "name": "Take 5 Car Wash #11",
+    "lat": 38.8951162,
+    "lon": -104.7204863,
+    "type": "Take"
+  },
+  {
+    "name": "Take 5 Car Wash #12",
+    "lat": 34.0308172,
+    "lon": -81.0969756,
+    "type": "Take"
+  },
+  {
+    "name": "Take 5 Car Wash #13",
+    "lat": 34.6963396,
+    "lon": -86.5824696,
+    "type": "Take"
+  },
+  {
+    "name": "Take 5 Car Wash #14",
+    "lat": 37.1834096,
+    "lon": -93.3553432,
+    "type": "Take"
+  },
+  {
+    "name": "Take 5 Car Wash #15",
+    "lat": 36.054813,
+    "lon": -94.1932382,
+    "type": "Take"
+  },
+  {
+    "name": "Take 5 Car Wash #16",
+    "lat": 42.0097921,
+    "lon": -93.6109849,
+    "type": "Take"
+  },
+  {
+    "name": "Take 5 Car Wash #17",
+    "lat": 40.2559087,
+    "lon": -111.6625205,
+    "type": "Take"
+  },
+  {
+    "name": "Take 5 Car Wash #18",
+    "lat": 33.2297936,
+    "lon": -97.1537226,
+    "type": "Take"
+  },
+  {
+    "name": "Take 5 Car Wash #19",
+    "lat": 41.2440337,
+    "lon": -112.0047171,
+    "type": "Take"
+  },
+  {
+    "name": "Take 5 Car Wash #20",
+    "lat": 35.3585092,
+    "lon": -94.3614165,
+    "type": "Take"
+  },
+  {
+    "name": "Take 5 Car Wash #21",
+    "lat": 35.3584922,
+    "lon": -94.3614212,
+    "type": "Take"
+  },
+  {
+    "name": "Take 5 Car Wash #22",
+    "lat": 39.0843124,
+    "lon": -108.5947841,
+    "type": "Take"
+  },
+  {
+    "name": "Take 5 Car Wash #23",
+    "lat": 35.6813156,
+    "lon": -88.8308847,
+    "type": "Take"
+  },
+  {
+    "name": "Take 5 Car Wash #24",
+    "lat": 35.6729239,
+    "lon": -88.781797,
+    "type": "Take"
+  },
+  {
+    "name": "Take 5 Car Wash #25",
+    "lat": 35.689983,
+    "lon": -88.8580636,
+    "type": "Take"
+  },
+  {
+    "name": "Take 5 Car Wash #26",
+    "lat": 41.4928379,
+    "lon": -87.044409,
+    "type": "Take"
+  },
+  {
+    "name": "Take 5 Car Wash #27",
+    "lat": 30.1432826,
+    "lon": -96.3919799,
+    "type": "Take"
+  },
+  {
+    "name": "Take 5 Car Wash #28",
+    "lat": 39.5941878,
+    "lon": -104.8337319,
+    "type": "Take"
+  },
+  {
+    "name": "Take 5 Car Wash #29",
+    "lat": 39.41652,
+    "lon": -104.8809756,
+    "type": "Take"
+  },
+  {
+    "name": "Take 5 Car Wash #30",
+    "lat": 38.3090057,
+    "lon": -85.8429973,
+    "type": "Take"
+  },
+  {
+    "name": "Take 5 Car Wash #31",
+    "lat": 37.7405845,
+    "lon": -85.889473,
+    "type": "Take"
+  },
+  {
+    "name": "Take 5 Car Wash #32",
+    "lat": 37.7405912,
+    "lon": -85.8894801,
+    "type": "Take"
+  },
+  {
+    "name": "Take 5 Car Wash #33",
+    "lat": 40.7258288,
+    "lon": -111.8918389,
+    "type": "Take"
+  },
+  {
+    "name": "Take 5 Car Wash #34",
+    "lat": 40.6309538,
+    "lon": -111.890565,
+    "type": "Take"
+  },
+  {
+    "name": "Take 5 Car Wash #35",
+    "lat": 37.3482845,
+    "lon": -87.4970678,
+    "type": "Take"
+  },
+  {
+    "name": "Take 5 Car Wash #36",
+    "lat": 35.7710771,
+    "lon": -95.3765094,
+    "type": "Take"
+  },
+  {
+    "name": "Take 5 Car Wash #37",
+    "lat": 43.013027,
+    "lon": -88.04728,
+    "type": "Take"
+  },
+  {
+    "name": "Take 5 Car Wash #38",
+    "lat": 37.791205,
+    "lon": -85.9121756,
+    "type": "Take"
+  },
+  {
+    "name": "Take 5 Car Wash #39",
+    "lat": 33.9729234,
+    "lon": -86.4475432,
+    "type": "Take"
+  },
+  {
+    "name": "Take 5 Car Wash #40",
+    "lat": 32.6888314,
+    "lon": -95.4848411,
+    "type": "Take"
+  },
+  {
+    "name": "Take 5 Car Wash #41",
+    "lat": 35.5918614,
+    "lon": -87.0515837,
+    "type": "Take"
+  },
+  {
+    "name": "Take 5 Car Wash #42",
+    "lat": 34.1596617,
+    "lon": -85.7131125,
+    "type": "Take"
+  },
+  {
+    "name": "Take 5 Car Wash #43",
+    "lat": 34.0872837,
+    "lon": -81.1786895,
+    "type": "Take"
+  },
+  {
+    "name": "Take 5 Car Wash #44",
+    "lat": 34.6466151,
+    "lon": -86.0316618,
+    "type": "Take"
+  },
+  {
+    "name": "Take 5 Car Wash #45",
+    "lat": 36.0591004,
+    "lon": -89.3955862,
+    "type": "Take"
+  },
+  {
+    "name": "Take 5 Car Wash #46",
+    "lat": 40.4927383,
+    "lon": -81.4677215,
+    "type": "Take"
+  },
+  {
+    "name": "Take 5 Car Wash #47",
+    "lat": 35.045485,
+    "lon": -89.6568064,
+    "type": "Take"
+  },
+  {
+    "name": "Take 5 Car Wash #48",
+    "lat": 35.0452641,
+    "lon": -89.6896199,
+    "type": "Take"
+  },
+  {
+    "name": "Take 5 Car Wash #49",
+    "lat": 32.0932716,
+    "lon": -81.2735683,
+    "type": "Take"
+  },
+  {
+    "name": "Take 5 Car Wash #50",
+    "lat": 36.0698062,
+    "lon": -87.3799318,
     "type": "Take"
   }
 ]
