@@ -1,4 +1,3 @@
-// ✅ Declare markers before use
 let map;
 let markers = [];
 
@@ -22,12 +21,6 @@ const icons = {
   })
 };
 
-// 🔍 Businesses to fetch on refresh
-const businesses = [
-  { query: "Mister Car Wash", type: "Mister" },
-  { query: "Take 5 Car Wash", type: "Take" }
-];
-
 // ✅ Remove current markers
 function clearMarkers() {
   markers.forEach(marker => map.removeLayer(marker));
@@ -40,53 +33,26 @@ async function loadFromJSON() {
     const res = await fetch("locations.json");
     const data = await res.json();
 
+    let bounds = [];
+
     data.forEach(loc => {
-      const marker = L.marker([loc.lat, loc.lon], {
+      const latlng = [loc.lat, loc.lon];
+      const marker = L.marker(latlng, {
         icon: icons[loc.type] || undefined
       })
         .addTo(map)
         .bindPopup(`<b>${loc.name}</b><br>Type: ${loc.type}`);
       markers.push(marker);
+      bounds.push(latlng);
     });
+
+    if (bounds.length > 0) {
+      map.fitBounds(bounds, { padding: [30, 30] });
+    }
 
   } catch (err) {
     console.error("Failed to load locations.json:", err);
     alert("Could not load map data.");
-  }
-}
-
-// 🌐 Fetch live data from Nominatim (on refresh)
-async function fetchAndRenderFreshData() {
-  clearMarkers();
-
-  for (let biz of businesses) {
-    const url = `https://nominatim.openstreetmap.org/search?q=${encodeURIComponent(biz.query)}&format=json&limit=10&countrycodes=us`;
-
-    try {
-      const res = await fetch(url, {
-        headers: {
-          "User-Agent": "map-test-app (test@example.com)" // replace with your email
-        }
-      });
-
-      const data = await res.json();
-
-      data.forEach((item, i) => {
-        const marker = L.marker([item.lat, item.lon], {
-          icon: icons[biz.type] || undefined
-        })
-          .addTo(map)
-          .bindPopup(`<b>${biz.query} #${i + 1}</b>`);
-        markers.push(marker);
-      });
-
-    } catch (err) {
-      console.error(`Error fetching data for ${biz.query}:`, err);
-      alert(`Error fetching data for ${biz.query}`);
-    }
-
-    // ⏱ Be polite to Nominatim
-    await new Promise(resolve => setTimeout(resolve, 1100));
   }
 }
 
@@ -98,12 +64,7 @@ function initMap() {
     attribution: '&copy; OpenStreetMap contributors'
   }).addTo(map);
 
-  loadFromJSON(); // 🟢 Load static markers
-}
-
-// 🔁 Called when button is clicked
-function refreshMap() {
-  fetchAndRenderFreshData(); // 🔄 Fetch and show live data
+  loadFromJSON(); // ✅ Load static markers only
 }
 
 // 🚀 Load map on page load
