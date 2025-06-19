@@ -1,602 +1,1568 @@
 [
   {
-    "name": "Mister Car Wash #1",
-    "lat": 33.8362076,
-    "lon": -84.3686987,
+    "name": "Mister Car Wash, Cahaba Park Circle, Cahaba Commons, Birmingham, Shelby County, Alabama, 35261, United States",
+    "lat": 33.4296434,
+    "lon": -86.7079646,
     "type": "Mister"
   },
   {
-    "name": "Mister Car Wash #2",
-    "lat": 29.7696727,
-    "lon": -95.3956073,
+    "name": "Mister Car Wash, 403, US Highway 72 West, Athens, Limestone County, Alabama, 35611, United States",
+    "lat": 34.7896645,
+    "lon": -86.9761852,
     "type": "Mister"
   },
   {
-    "name": "Mister Car Wash #3",
-    "lat": 29.7150015,
-    "lon": -95.4960177,
+    "name": "Mister Car Wash, 1321, US Highway 72 East, Athens, Limestone County, Alabama, 35611, United States",
+    "lat": 34.785059,
+    "lon": -86.9438152,
     "type": "Mister"
   },
   {
-    "name": "Mister Car Wash #4",
-    "lat": 29.689642,
-    "lon": -95.4190943,
-    "type": "Mister"
-  },
-  {
-    "name": "Mister Car Wash #5",
-    "lat": 29.7434861,
-    "lon": -95.500278,
-    "type": "Mister"
-  },
-  {
-    "name": "Mister Car Wash #6",
-    "lat": 29.8276761,
-    "lon": -95.4086605,
-    "type": "Mister"
-  },
-  {
-    "name": "Mister Car Wash #7",
-    "lat": 29.6710013,
-    "lon": -95.4632553,
-    "type": "Mister"
-  },
-  {
-    "name": "Mister Car Wash #8",
-    "lat": 29.7043845,
-    "lon": -95.5176422,
-    "type": "Mister"
-  },
-  {
-    "name": "Mister Car Wash #9",
-    "lat": 29.787158,
-    "lon": -95.5432678,
-    "type": "Mister"
-  },
-  {
-    "name": "Mister Car Wash #10",
-    "lat": 29.7057276,
-    "lon": -95.4108229,
-    "type": "Mister"
-  },
-  {
-    "name": "Mister Car Wash #11",
-    "lat": 29.7864281,
-    "lon": -95.6879539,
-    "type": "Mister"
-  },
-  {
-    "name": "Mister Car Wash #12",
-    "lat": 29.7374315,
-    "lon": -95.4788323,
-    "type": "Mister"
-  },
-  {
-    "name": "Mister Car Wash #13",
-    "lat": 29.736621,
-    "lon": -95.419416,
-    "type": "Mister"
-  },
-  {
-    "name": "Mister Car Wash #14",
-    "lat": 30.3589353,
-    "lon": -97.7172033,
-    "type": "Mister"
-  },
-  {
-    "name": "Mister Car Wash #15",
-    "lat": 36.0932173,
-    "lon": -86.6517416,
-    "type": "Mister"
-  },
-  {
-    "name": "Mister Car Wash #16",
-    "lat": 40.7376398,
-    "lon": -111.9005896,
-    "type": "Mister"
-  },
-  {
-    "name": "Mister Car Wash #17",
-    "lat": 40.7338623,
-    "lon": -111.8200784,
-    "type": "Mister"
-  },
-  {
-    "name": "Mister Car Wash #18",
-    "lat": 28.4945531,
-    "lon": -81.4228026,
-    "type": "Mister"
-  },
-  {
-    "name": "Mister Car Wash #19",
-    "lat": 27.9612221,
-    "lon": -82.5060079,
-    "type": "Mister"
-  },
-  {
-    "name": "Mister Car Wash #20",
-    "lat": 27.8931475,
-    "lon": -82.5033227,
-    "type": "Mister"
-  },
-  {
-    "name": "Mister Car Wash #21",
+    "name": "Mister Car Wash, East Broadway Boulevard, Pie Allen, Tucson, Pima County, Arizona, 85719, United States",
     "lat": 32.2208799,
     "lon": -110.9601287,
     "type": "Mister"
   },
   {
-    "name": "Mister Car Wash #22",
+    "name": "Mister Car Wash, 222, East 5th Street, West University, Tucson, Pima County, Arizona, 85701, United States",
     "lat": 32.22882,
     "lon": -110.9683467,
     "type": "Mister"
   },
   {
-    "name": "Mister Car Wash #23",
+    "name": "Mister Car Wash, 6301, East 22nd Street, Oxford Plaza, Palo Verde Park, Tucson, Pima County, Arizona, 85710, United States",
     "lat": 32.2070326,
     "lon": -110.8573278,
     "type": "Mister"
   },
   {
-    "name": "Mister Car Wash #24",
+    "name": "Mister Car Wash, 5150, East Speedway Boulevard, Tucson, Pima County, Arizona, 85712, United States",
     "lat": 32.2355568,
     "lon": -110.8822783,
     "type": "Mister"
   },
   {
-    "name": "Mister Car Wash #25",
+    "name": "Mister Car Wash, 3101, East Speedway Boulevard, Tucson, Pima County, Arizona, 85716, United States",
     "lat": 32.2365053,
     "lon": -110.9263264,
     "type": "Mister"
   },
   {
-    "name": "Mister Car Wash #26",
-    "lat": 31.8833513,
-    "lon": -106.5774287,
+    "name": "Mister Car Wash, Martin Luther King Jr. Parkway, Sierra Vista, Cochise County, Arizona, 85636, United States",
+    "lat": 31.557749,
+    "lon": -110.2587719,
     "type": "Mister"
   },
   {
-    "name": "Mister Car Wash #27",
-    "lat": 31.7600415,
-    "lon": -106.2720086,
+    "name": "Mister Car Wash, Martin Luther King Jr. Parkway, Sierra Vista, Cochise County, Arizona, 85636, United States",
+    "lat": 31.5579067,
+    "lon": -110.2589294,
     "type": "Mister"
   },
   {
-    "name": "Mister Car Wash #28",
-    "lat": 43.0581654,
-    "lon": -89.3995197,
+    "name": "Mister Car Wash, West Arizona Pavillions Drive, Marana, Pima County, Arizona, 85652, United States",
+    "lat": 32.3563872,
+    "lon": -111.0946625,
     "type": "Mister"
   },
   {
-    "name": "Mister Car Wash #29",
-    "lat": 43.0842982,
-    "lon": -89.3697881,
+    "name": "Mister Car Wash, 1435, West River Road, Flowing Wells, Tucson, Pima County, Arizona, 85704, United States",
+    "lat": 32.2966795,
+    "lon": -110.9963781,
     "type": "Mister"
   },
   {
-    "name": "Mister Car Wash #30",
-    "lat": 43.0729848,
-    "lon": -89.4241095,
+    "name": "Mister Car Wash, 1736, Oakdale Road, Modesto, Stanislaus County, California, 95355, United States",
+    "lat": 37.6695752,
+    "lon": -120.9570124,
     "type": "Mister"
   },
   {
-    "name": "Mister Car Wash #31",
-    "lat": 35.1410776,
-    "lon": -106.5873236,
+    "name": "Mister Car Wash, Beech Avenue, Lancaster, Los Angeles County, California, 93534, United States",
+    "lat": 34.688859,
+    "lon": -118.1365538,
     "type": "Mister"
   },
   {
-    "name": "Mister Car Wash #32",
-    "lat": 35.1748602,
-    "lon": -106.5764629,
+    "name": "Mister Car Wash, 10th Street West, Palmdale, Los Angeles County, California, 93551, United States",
+    "lat": 34.5973302,
+    "lon": -118.1484462,
     "type": "Mister"
   },
   {
-    "name": "Mister Car Wash #33",
-    "lat": 35.1173033,
-    "lon": -106.702711,
+    "name": "Mister Car Wash, 3690, G Street, Merced, Merced County, California, 95340, United States",
+    "lat": 37.3345087,
+    "lon": -120.4683082,
     "type": "Mister"
   },
   {
-    "name": "Mister Car Wash #34",
-    "lat": 35.2180878,
-    "lon": -106.6633687,
+    "name": "Mister Car Wash, 127, West Valley Boulevard, Rialto, San Bernardino County, California, 92376, United States",
+    "lat": 34.0699493,
+    "lon": -117.3712345,
     "type": "Mister"
   },
   {
-    "name": "Mister Car Wash #35",
-    "lat": 44.9545633,
-    "lon": -93.0803508,
+    "name": "Mister Car Wash, 1400, Geer Road, Turlock, Stanislaus County, California, 95380, United States",
+    "lat": 37.5060762,
+    "lon": -120.8480598,
     "type": "Mister"
   },
   {
-    "name": "Mister Car Wash #36",
-    "lat": 41.6245897,
-    "lon": -93.6972771,
+    "name": "Mister Car Wash, 980, West Monte Vista Avenue, Turlock, Stanislaus County, California, 95382, United States",
+    "lat": 37.5214302,
+    "lon": -120.8608435,
     "type": "Mister"
   },
   {
-    "name": "Mister Car Wash #37",
-    "lat": 41.586069,
-    "lon": -93.6517524,
+    "name": "Mister Car Wash, 487, North Golden State Boulevard, Turlock, Stanislaus County, California, 95380, United States",
+    "lat": 37.4978445,
+    "lon": -120.8487155,
     "type": "Mister"
   },
   {
-    "name": "Mister Car Wash #38",
-    "lat": 41.553224,
-    "lon": -93.5978062,
+    "name": "Mister Car Wash, 1050, Gylen Lane, Manteca, San Joaquin County, California, 95337, United States",
+    "lat": 37.7888908,
+    "lon": -121.2512845,
     "type": "Mister"
   },
   {
-    "name": "Mister Car Wash #39",
+    "name": "Mister Car Wash, 2369, Claribel Road, Riverbank, Stanislaus County, California, 95367, United States",
+    "lat": 37.7114927,
+    "lon": -120.9547015,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash, North Academy Boulevard, Colorado Springs, El Paso County, Colorado, 80918, United States",
     "lat": 38.8933248,
     "lon": -104.7569194,
     "type": "Mister"
   },
   {
-    "name": "Mister Car Wash #40",
+    "name": "Mister Car Wash, 5366, New Car Drive, Colorado Springs, El Paso County, Colorado, 80920, United States",
     "lat": 38.9395581,
     "lon": -104.7271543,
     "type": "Mister"
   },
   {
-    "name": "Mister Car Wash #41",
+    "name": "Mister Car Wash, 6015, Constitution Avenue, Colorado Springs, El Paso County, Colorado, 80915, United States",
     "lat": 38.8702052,
     "lon": -104.716545,
     "type": "Mister"
   },
   {
-    "name": "Mister Car Wash #42",
-    "lat": 33.5289214,
-    "lon": -101.9058265,
+    "name": "Mister Car Wash, 24273, East Prospect Avenue, Southlands Shopping Center, Aurora, Arapahoe County, Colorado, 80016, United States",
+    "lat": 39.5995987,
+    "lon": -104.7053528,
     "type": "Mister"
   },
   {
-    "name": "Mister Car Wash #43",
-    "lat": 33.5914181,
-    "lon": -101.9330925,
+    "name": "Mister Car Wash, North Elizabeth Street, Dillon, Pueblo, Pueblo County, Colorado, 81008, United States",
+    "lat": 38.3027553,
+    "lon": -104.6159452,
     "type": "Mister"
   },
   {
-    "name": "Mister Car Wash #44",
-    "lat": 33.5191866,
-    "lon": -101.9449572,
+    "name": "Mister Car Wash, 1822, Main Street, Colorado Springs, El Paso County, Colorado, 80911, United States",
+    "lat": 38.7685704,
+    "lon": -104.7400974,
     "type": "Mister"
   },
   {
-    "name": "Mister Car Wash #45",
-    "lat": 33.5182922,
-    "lon": -101.8871556,
+    "name": "Mister Sparkle Car Wash, 1383, Albany Avenue, Upper Albany Historic District, Asylum Hill, Hartford, 06112, United States",
+    "lat": 41.7830098,
+    "lon": -72.6996644,
     "type": "Mister"
   },
   {
-    "name": "Mister Car Wash #46",
-    "lat": 42.9887913,
-    "lon": -87.9391083,
+    "name": "Mister Car Wash, Millenia Boulevard, Orlando, Orange County, Florida, 32811, United States",
+    "lat": 28.4945531,
+    "lon": -81.4228026,
     "type": "Mister"
   },
   {
-    "name": "Mister Car Wash #47",
-    "lat": 42.9580206,
-    "lon": -87.9494107,
+    "name": "Mister Car Wash, 2230, North Dale Mabry Highway, Lincoln Gardens, Tampa, Hillsborough County, Florida, 33607, United States",
+    "lat": 27.9612221,
+    "lon": -82.5060079,
     "type": "Mister"
   },
   {
-    "name": "Mister Car Wash #48",
-    "lat": 42.9132418,
-    "lon": -85.5738253,
+    "name": "Mister Car Wash, 3622, West Gandy Boulevard, Al Mar, Tampa, Hillsborough County, Florida, 33611, United States",
+    "lat": 27.8931475,
+    "lon": -82.5033227,
     "type": "Mister"
   },
   {
-    "name": "Mister Car Wash #49",
-    "lat": 42.9695834,
-    "lon": -85.638868,
+    "name": "Mister Car Wash;Mister HotShine, Gulf to Bay Boulevard, Clearwater, Pinellas County, Florida, 33765, United States",
+    "lat": 27.9610911,
+    "lon": -82.7593969,
     "type": "Mister"
   },
   {
-    "name": "Mister Car Wash #50",
+    "name": "Mister Car Wash, LPGA Boulevard, The Preserve at Daytona, Daytona Beach, Volusia County, Florida, 32117, United States",
+    "lat": 29.2266117,
+    "lon": -81.0843993,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash, 1491, 3rd Street Southwest, Winter Haven, Polk County, Florida, 33880, United States",
+    "lat": 28.0084399,
+    "lon": -81.7316124,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash, 110, Cypress Point Parkway, Palm Coast, Flagler County, Florida, 32164, United States",
+    "lat": 29.5495239,
+    "lon": -81.2331161,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash, 3807, South Clyde Morris Boulevard, Port Orange, Volusia County, Florida, 32129, United States",
+    "lat": 29.141953,
+    "lon": -81.0346623,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash, Dunlawton Avenue, Port Orange, Volusia County, Florida, 32127, United States",
+    "lat": 29.109839,
+    "lon": -81.0251984,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash, 306, West Mitchell Hammock Road, Oviedo, Seminole County, Florida, 32765, United States",
+    "lat": 28.654348,
+    "lon": -81.2131999,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash, 9995, East Adamo Drive, Alexandria Place, Tampa, Hillsborough County, Florida, 33619, United States",
+    "lat": 27.9445359,
+    "lon": -82.3384168,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash, Park Boulevard, Pinellas Park, Pinellas County, Florida, 33781, United States",
+    "lat": 27.8396971,
+    "lon": -82.732747,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash, Central Florida GreeneWay, Orange County, Florida, 32832, United States",
+    "lat": 28.4025489,
+    "lon": -81.2432073,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash, 7958, East Colonial Drive, Orlando, Orange County, Florida, 32817, United States",
+    "lat": 28.5679802,
+    "lon": -81.2790605,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash, North Dale Mabry Highway, Arbor Oaks, Egypt Lake-Leto, Hillsborough County, Florida, 33618, United States",
+    "lat": 28.021786,
+    "lon": -82.5042798,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash, Irma Avenue, Bayonet Point, Pasco County, Florida, 34667, United States",
+    "lat": 28.3317121,
+    "lon": -82.6626012,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash, US Highway 19, Hudson, Pasco County, Florida, 34668, United States",
+    "lat": 28.340346,
+    "lon": -82.7000621,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash, 12180, East Colonial Drive, Orlando, Orange County, Florida, 32826, United States",
+    "lat": 28.5655438,
+    "lon": -81.2010134,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash, Coyote Drive, Collier County, Florida, 34113, United States",
+    "lat": 26.1089353,
+    "lon": -81.6888629,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash, Piedmont Road Northeast, Buckhead, Atlanta, Fulton County, Georgia, 30305, United States",
+    "lat": 33.8362076,
+    "lon": -84.3686987,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash, State Bridge Road, Johns Creek, Fulton County, Georgia, 30022, United States",
+    "lat": 34.0557429,
+    "lon": -84.2304839,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash, 550, E. E. Butler Parkway, Green Street-Brenau Historic District, Gainesville, Hall County, Georgia, 30501, United States",
+    "lat": 34.2969777,
+    "lon": -83.8219021,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash, 3261, Highway 278 Northeast, Covington, Newton County, Georgia, 30014, United States",
+    "lat": 33.6035505,
+    "lon": -83.8550384,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash, 170, Martin Luther King, Junior Boulevard, Monroe, Walton County, Georgia, 30655, United States",
+    "lat": 33.7932835,
+    "lon": -83.7446517,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash, Douglas Boulevard, Arbor Square, Douglasville, Douglas County, Georgia, 30135, United States",
+    "lat": 33.7241385,
+    "lon": -84.759286,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash, Unlimited Members Lane, Lovejoy, Clayton County, Georgia, 30250, United States",
+    "lat": 33.4466307,
+    "lon": -84.3250967,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash, Laurel Crossing Parkway, Habersham Hills, Gwinnett County, Georgia, 30159, United States",
+    "lat": 34.0487138,
+    "lon": -83.9926015,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash, Epps Bridge Parkway, Ben Dowdy, Oconee County, Georgia, 30606, United States",
+    "lat": 33.9215222,
+    "lon": -83.4418237,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash, Buford Highway, Forsyth County, Georgia, 30041, United States",
+    "lat": 34.1607326,
+    "lon": -84.1150366,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash, West Front Street, Downtown, Boise, Ada County, Idaho, 83701, United States",
     "lat": 43.6175514,
     "lon": -116.2112781,
     "type": "Mister"
   },
   {
-    "name": "Take 5 Car Wash #1",
-    "lat": 37.3975542,
-    "lon": -79.2243702,
-    "type": "Take"
+    "name": "Mister Car Wash, 5950, West Fairview Avenue, Boise, Ada County, Idaho, 83704, United States",
+    "lat": 43.6195256,
+    "lon": -116.2555335,
+    "type": "Mister"
   },
   {
-    "name": "Take 5 Car Wash #2",
-    "lat": 35.119842,
-    "lon": -89.796514,
-    "type": "Take"
+    "name": "Mister Car Wash, 1790, South Broadway Avenue, Boise, Ada County, Idaho, 83706, United States",
+    "lat": 43.5907275,
+    "lon": -116.192851,
+    "type": "Mister"
   },
   {
-    "name": "Take 5 Car Wash #3",
-    "lat": 35.1485044,
-    "lon": -89.9155144,
-    "type": "Take"
+    "name": "Mister Car Wash, Stamm Lane, Nampa, Canyon County, Idaho, 83687, United States",
+    "lat": 43.595035,
+    "lon": -116.5178357,
+    "type": "Mister"
   },
   {
-    "name": "Take 5 Car Wash #4",
-    "lat": 32.9028036,
-    "lon": -97.2566511,
-    "type": "Take"
+    "name": "Mister Car Wash, 1701, Caldwell Boulevard, Nampa, Canyon County, Idaho, 83651, United States",
+    "lat": 43.604546,
+    "lon": -116.6030873,
+    "type": "Mister"
   },
   {
-    "name": "Take 5 Car Wash #5",
-    "lat": 30.2870816,
-    "lon": -81.4620757,
-    "type": "Take"
+    "name": "Mister Car Wash, 4891, North Cortona Way, Meridian, Ada County, Idaho, 83646, United States",
+    "lat": 43.6494824,
+    "lon": -116.432763,
+    "type": "Mister"
   },
   {
-    "name": "Take 5 Car Wash #6",
-    "lat": 43.029519,
-    "lon": -89.4099334,
-    "type": "Take"
+    "name": "Mister Car Wash, 7422, East Riverside Boulevard, Loves Park, Rockford Township, Winnebago County, Illinois, 61111, United States",
+    "lat": 42.3194992,
+    "lon": -88.9718151,
+    "type": "Mister"
   },
   {
-    "name": "Take 5 Car Wash #7",
-    "lat": 36.0614155,
-    "lon": -95.7415469,
-    "type": "Take"
+    "name": "Mister Car Wash, 3333, Merle Hay Road, Boston Commons, Des Moines, Polk County, Iowa, 50310, United States",
+    "lat": 41.6245897,
+    "lon": -93.6972771,
+    "type": "Mister"
   },
   {
-    "name": "Take 5 Car Wash #8",
-    "lat": 36.0906144,
-    "lon": -95.922919,
-    "type": "Take"
+    "name": "Mister Car Wash, 2525, Ingersoll Avenue, Arbor Peaks, Des Moines, Polk County, Iowa, 50312, United States",
+    "lat": 41.586069,
+    "lon": -93.6517524,
+    "type": "Mister"
   },
   {
-    "name": "Take 5 Car Wash #9",
-    "lat": 38.8333561,
-    "lon": -104.757854,
-    "type": "Take"
+    "name": "Mister Car Wash, Indianola Avenue, Des Moines, Polk County, Iowa, 50320, United States",
+    "lat": 41.553224,
+    "lon": -93.5978062,
+    "type": "Mister"
   },
   {
-    "name": "Take 5 Car Wash #10",
-    "lat": 38.8973293,
-    "lon": -104.8389309,
-    "type": "Take"
+    "name": "Mister Car Wash, 5055, Northland Avenue Northeast, Cedar Rapids, Linn County, Iowa, 52402, United States",
+    "lat": 42.0287594,
+    "lon": -91.6313177,
+    "type": "Mister"
   },
   {
-    "name": "Take 5 Car Wash #11",
-    "lat": 38.8951162,
-    "lon": -104.7204863,
-    "type": "Take"
+    "name": "Mister Car Wash, 8727, University Avenue, Clive, Polk County, Iowa, 50325, United States",
+    "lat": 41.6009298,
+    "lon": -93.7370456,
+    "type": "Mister"
   },
   {
-    "name": "Take 5 Car Wash #12",
-    "lat": 34.0308172,
-    "lon": -81.0969756,
-    "type": "Take"
+    "name": "Mister Car Wash, 102, South Jordan Creek Parkway, Jordan Creek Town Center, West Des Moines, Boone Township, Dallas County, Iowa, 50266, United States",
+    "lat": 41.5681338,
+    "lon": -93.8083773,
+    "type": "Mister"
   },
   {
-    "name": "Take 5 Car Wash #13",
+    "name": "Mister Car Wash, Hickman Road, Urbandale, Polk County, Iowa, 50323, United States",
+    "lat": 41.615365,
+    "lon": -93.7835434,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash, 4850, Merle Hay Road, Urbandale, Polk County, Iowa, 50322, United States",
+    "lat": 41.6492305,
+    "lon": -93.6986548,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash, Northeast Gateway Drive, Grimes, Polk County, Iowa, 50111, United States",
+    "lat": 41.6903945,
+    "lon": -93.7805792,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash, Southeast 11th Street, Grimes, Polk County, Iowa, 50111, United States",
+    "lat": 41.6805096,
+    "lon": -93.7736042,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash, 5520, Edgewood Road Northeast, North River Village, New Buffalo, Cedar Rapids, Linn County, Iowa, 52411, United States",
+    "lat": 42.0342928,
+    "lon": -91.7006906,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash, 2473, Solomons Island Road, Dorsey Heights, Parole, Annapolis, Anne Arundel County, Maryland, 21401, United States",
+    "lat": 38.9739071,
+    "lon": -76.5410438,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash, 28th Street Southeast, Third Ward, Grand Rapids, Kent County, Michigan, 49546, United States",
+    "lat": 42.9132418,
+    "lon": -85.5738253,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash, Michigan Street Northeast, Grand Rapids, Kent County, Michigan, 49506, United States",
+    "lat": 42.9695834,
+    "lon": -85.638868,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash, 525, Joe Mann Boulevard, Midland, Midland County, Michigan, 48642, United States",
+    "lat": 43.6579076,
+    "lon": -84.2320043,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash, East Locust Street, Mount Pleasant, Isabella County, Michigan, 48858, United States",
+    "lat": 43.6010007,
+    "lon": -84.7681813,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash, 6700, Kalamazoo Avenue Southeast, Gaines Charter Township, Grand Rapids, Kent County, Michigan, 49508, United States",
+    "lat": 42.8429427,
+    "lon": -85.6240969,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash, 4260, Lake Michigan Drive Northwest, Standale, Walker, Kent County, Michigan, 49534, United States",
+    "lat": 42.9717616,
+    "lon": -85.7730075,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash, North Kittson Street, Dayton's Bluff, Saint Paul, Ramsey County, Minnesota, 55101, United States",
+    "lat": 44.9545633,
+    "lon": -93.0803508,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash, 3939, West River Parkway Northwest, Rochester, Olmsted County, Minnesota, 55901, United States",
+    "lat": 44.0626898,
+    "lon": -92.4746235,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash, Crossroads Drive Southwest, Crossroads Center, Rochester, Olmsted County, Minnesota, 55902, United States",
+    "lat": 44.0065278,
+    "lon": -92.4675857,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash, 3223, 41st Street Northwest, Rochester, Olmsted County, Minnesota, 55901, United States",
+    "lat": 44.0657396,
+    "lon": -92.5117509,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash, Division Street, Saint Cloud, Stearns County, Minnesota, 56301, United States",
+    "lat": 45.5528132,
+    "lon": -94.1964413,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash, Minnesota State Highway 7, Minnetonka, Hennepin County, Minnesota, 55345, United States",
+    "lat": 44.9140662,
+    "lon": -93.50392,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash, 15620, English Avenue, Apple Valley, Dakota County, Minnesota, 55124, United States",
+    "lat": 44.7225684,
+    "lon": -93.1791266,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash, 8650, Minnesota State Highway 7, Aquila, Saint Louis Park, Hennepin County, Minnesota, 55426, United States",
+    "lat": 44.935792,
+    "lon": -93.3891259,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash, 8650, 37th Street West, Aquila, Saint Louis Park, Hennepin County, Minnesota, 55426, United States",
+    "lat": 44.9357661,
+    "lon": -93.3891068,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash, 1555, County Road B West, Roseville, Ramsey County, Minnesota, 55113, United States",
+    "lat": 45.0066099,
+    "lon": -93.165286,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash, East Point Douglas Road South, Cottage Grove, Washington County, Minnesota, 55016, United States",
+    "lat": 44.8183023,
+    "lon": -92.9351711,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash, 700, East River Road, Anoka, Anoka County, Minnesota, 55316, United States",
+    "lat": 45.1874071,
+    "lon": -93.3784025,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash, County Highway 96, Commons, Shoreview, Ramsey County, Minnesota, 55126, United States",
+    "lat": 45.0802513,
+    "lon": -93.1186005,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash, 110, Thompson Avenue East, West Saint Paul, Dakota County, Minnesota, 55118, United States",
+    "lat": 44.9011044,
+    "lon": -93.0800583,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash, East Harper Street, Lakeland, Richland, Rankin County, Mississippi, 39218, United States",
+    "lat": 32.2216258,
+    "lon": -90.1539896,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Hotshine Car Wash, West Sunshine Street, Ewing, Springfield, Greene County, Missouri, 65807, United States",
+    "lat": 37.182902,
+    "lon": -93.3185031,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Hot Shine, East Battlefield Road, Meador Park, Springfield, Greene County, Missouri, 65804, United States",
+    "lat": 37.1590505,
+    "lon": -93.2763042,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Hotshine, South Enterprise Avenue, Oak Grove, Springfield, Greene County, Missouri, 65804, United States",
+    "lat": 37.1816718,
+    "lon": -93.2507101,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash, San Mateo Boulevard Northeast, Albuquerque, Bernalillo County, New Mexico, 87109, United States",
+    "lat": 35.1410776,
+    "lon": -106.5873236,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash, 8100, San Pedro Drive Northeast, Journal Center, Albuquerque, Bernalillo County, New Mexico, 87133, United States",
+    "lat": 35.1748602,
+    "lon": -106.5764629,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash, Coors Boulevard Northwest, Albuquerque, Bernalillo County, New Mexico, 87120, United States",
+    "lat": 35.1173033,
+    "lon": -106.702711,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash, Westside Boulevard Southeast, Albuquerque, Bernalillo County, New Mexico, 87114, United States",
+    "lat": 35.2180878,
+    "lon": -106.6633687,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash, 2935, North Main Street, Las Cruces, Do\u00f1a Ana County, New Mexico, 88001, United States",
+    "lat": 32.3412561,
+    "lon": -106.7764242,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash, 1503, Main Street Southwest, Los Lunas, Valencia County, New Mexico, 87031, United States",
+    "lat": 34.8139805,
+    "lon": -106.7514934,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash, 7941, Montoya Road, Rio Rancho, Sandoval County, New Mexico, 87004, United States",
+    "lat": 35.3220343,
+    "lon": -106.5725354,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash, 324, US 550, Bernalillo, Sandoval County, New Mexico, 87004, United States",
+    "lat": 35.321042,
+    "lon": -106.5495329,
+    "type": "Mister"
+  },
+  {
+    "name": "Mr. Clean Car Wash, Socialville\u2013Fosters Road, Arbor Square, Deerfield Township, Warren County, Ohio, 45040, United States",
+    "lat": 39.321888,
+    "lon": -84.3136362,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Bubbles Complete Care Detailing, 512, East 13th Street, Pendleton, Cincinnati, Hamilton County, Ohio, 45202, United States",
+    "lat": 39.1108748,
+    "lon": -84.5063786,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash, 2012, West Oklahoma Avenue, Southgate, Milwaukee, Milwaukee County, Wisconsin, 53215, United States",
+    "lat": 42.9887913,
+    "lon": -87.9391083,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Suds Car Wash, 400, Southwest 1st Street, Afton, Ottawa County, Oklahoma, United States",
+    "lat": 36.69045,
+    "lon": -94.9700326,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash, 825, West Main Street, Ephrata, Lancaster County, Pennsylvania, 17522, United States",
+    "lat": 40.1872289,
+    "lon": -76.1882042,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash, Manheim Pike, Manheim Township, Lancaster County, Pennsylvania, 17601, United States",
+    "lat": 40.0704911,
+    "lon": -76.3316414,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash, 2720, East Market Street, East York, York, York County, Pennsylvania, 17406, United States",
+    "lat": 39.9746903,
+    "lon": -76.6726223,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash, 2130, Murfreesboro Pike, Una, Nashville, Davidson County, Middle Tennessee, Tennessee, 37217, United States",
+    "lat": 36.0932173,
+    "lon": -86.6517416,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash, Memorial Boulevard, Palmer Heights, Murfreesboro, Rutherford County, Middle Tennessee, Tennessee, 37129, United States",
+    "lat": 35.9080532,
+    "lon": -86.3844971,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash, Lebanon Pike, Nashville, Davidson County, Middle Tennessee, Tennessee, 37138, United States",
+    "lat": 36.2166265,
+    "lon": -86.5854708,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash, Needham Drive, Loafer's Corner, Smyrna, Rutherford County, Middle Tennessee, Tennessee, 37167, United States",
+    "lat": 35.9876576,
+    "lon": -86.5450619,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash, 3522, Washington Avenue, Washington Avenue Coalition / Memorial Park, Houston, Harris County, Texas, 77007, United States",
+    "lat": 29.7696727,
+    "lon": -95.3956073,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash, Gulfton Street, Gulfton, Houston, Harris County, Texas, 77081, United States",
+    "lat": 29.7150015,
+    "lon": -95.4960177,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash, 8810, Main Street, Braeswood, Houston, Harris County, Texas, 77025, United States",
+    "lat": 29.689642,
+    "lon": -95.4190943,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash, 2251, South Voss Road, Houston, Harris County, Texas, 77057, United States",
+    "lat": 29.7434861,
+    "lon": -95.500278,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash, 640, West Crosstimbers Street, Independence Heights, Houston, Harris County, Texas, 77018, United States",
+    "lat": 29.8276761,
+    "lon": -95.4086605,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash, West Bellfort Street, Houston, Harris County, Texas, 77096, United States",
+    "lat": 29.6710013,
+    "lon": -95.4632553,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash, Bellaire Boulevard, Sharpstown, Houston, Harris County, Texas, 77083, United States",
+    "lat": 29.7043845,
+    "lon": -95.5176422,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash, Gessner Road, Spring Branch, Memorial City, Houston, Harris County, Texas, 77043, United States",
+    "lat": 29.787158,
+    "lon": -95.5432678,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash, 5735, Westheimer Road, Houston, Harris County, Texas, 77057, United States",
+    "lat": 29.7374315,
+    "lon": -95.4788323,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash, Barker Cypress Road, Houston, Harris County, Texas, 77413, United States",
+    "lat": 29.7864281,
+    "lon": -95.6879539,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash, Dorrington Street, Southgate, Houston, Harris County, Texas, 77030, United States",
+    "lat": 29.7057276,
+    "lon": -95.4108229,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash, West Main Street, Greenway / Upper Kirby, Greenway, Houston, Harris County, Texas, 77098, United States",
+    "lat": 29.736621,
+    "lon": -95.419416,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash, Research Boulevard, Wooten, Austin, Travis County, Texas, 78757, United States",
+    "lat": 30.3589353,
+    "lon": -97.7172033,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash, 7820, Paseo del Norte, El Paso, El Paso County, Texas, 79912, United States",
+    "lat": 31.8833513,
+    "lon": -106.5774287,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash, Montwood Drive, El Paso, El Paso County, Texas, 79936, United States",
+    "lat": 31.7600415,
+    "lon": -106.2720086,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash, Peoria Avenue, Lubbock, Lubbock County, Texas, 79414, United States",
+    "lat": 33.5289214,
+    "lon": -101.9058265,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash, 5523, 4th Street, Lubbock, Lubbock County, Texas, 79416, United States",
+    "lat": 33.5914181,
+    "lon": -101.9330925,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash, Homestead Avenue, Regal Park, Lubbock, Lubbock County, Texas, 79424, United States",
+    "lat": 33.5191866,
+    "lon": -101.9449572,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash, 83rd Street, Lubbock, Lubbock County, Texas, 79423, United States",
+    "lat": 33.5182922,
+    "lon": -101.8871556,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash, 2350, South 27th Street, Abilene, Taylor County, Texas, 79605, United States",
+    "lat": 32.4178972,
+    "lon": -99.7513678,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash, 4002, Buffalo Gap Road, Abilene, Taylor County, Texas, 79605, United States",
+    "lat": 32.4042922,
+    "lon": -99.7577986,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash, 6118, Buffalo Gap Road, Wylie, Abilene, Taylor County, Texas, 79606, United States",
+    "lat": 32.3750165,
+    "lon": -99.77468,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash, 2000, Round Rock Avenue, The Oaklands, Round Rock, Williamson County, Texas, 78681, United States",
+    "lat": 30.5111115,
+    "lon": -97.7090071,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash, 1821, Gattis School Road, Round Rock, Williamson County, Texas, 78682, United States",
+    "lat": 30.4956619,
+    "lon": -97.657748,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash, 210, FM 1960 East, Houston, Harris County, Texas, 77090, United States",
+    "lat": 30.021258,
+    "lon": -95.4261345,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash, NASA Parkway, Webster, Harris County, Texas, 77598, United States",
+    "lat": 29.5270921,
+    "lon": -95.1337488,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash, 12552, Richbourg Street, North Houston District, Houston, Harris County, Texas, 77067, United States",
+    "lat": 29.966342,
+    "lon": -95.4214472,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash, 3205, North Galloway Avenue, Mesquite, Dallas County, Texas, 75150, United States",
+    "lat": 32.8086174,
+    "lon": -96.6117962,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash, Hood Stadium Road, Coryell County, Texas, 76540, United States",
+    "lat": 31.1270922,
+    "lon": -97.8003922,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash, 15400, West Pecan Street, Pflugerville, Travis County, Texas, 78660, United States",
+    "lat": 30.4473454,
+    "lon": -97.6632191,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash, FM 1960 West, Harris County, Texas, 77070, United States",
+    "lat": 29.9468836,
+    "lon": -95.5625146,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash, 1480, 300 West, Ballpark, Salt Lake City, Salt Lake County, Utah, 84115, United States",
+    "lat": 40.7376398,
+    "lon": -111.9005896,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash, 1635, Foothill Drive, Salt Lake City, Salt Lake County, Utah, 84108, United States",
+    "lat": 40.7338623,
+    "lon": -111.8200784,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash, 17th Street, Ogden, Weber County, Utah, 84201, United States",
+    "lat": 41.2362653,
+    "lon": -111.9709467,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash, 3497 W, South Jordan Parkway, Woodridge Country Estates, South Jordan, Salt Lake County, Utah, 84009, United States",
+    "lat": 40.5611991,
+    "lon": -111.9746646,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash, 3856, 5400 South, Taylorsville, Salt Lake County, Utah, 84129, United States",
+    "lat": 40.6533393,
+    "lon": -111.9833422,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash, 4627 W, 13400 South, Riverton, Salt Lake County, Utah, 84096, United States",
+    "lat": 40.507359,
+    "lon": -112.0012071,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash, 1990, 3300 South, Salt Lake City, Salt Lake County, Utah, 84109, United States",
+    "lat": 40.6994386,
+    "lon": -111.8350664,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash, 2055 West, 3500 South, West Valley City, Salt Lake County, Utah, 84119, United States",
+    "lat": 40.6960685,
+    "lon": -111.9457548,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash, Mountain View Corridor Trail, Anthem Commercial, Herriman, Salt Lake County, Utah, 84096, United States",
+    "lat": 40.5344479,
+    "lon": -112.0147966,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash, 4681, Redwood Road, Meadowbrook, Taylorsville, Salt Lake County, Utah, 84123, United States",
+    "lat": 40.6680116,
+    "lon": -111.938317,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash, 7800 South, West Jordan, Salt Lake County, Utah, 84081, United States",
+    "lat": 40.6100018,
+    "lon": -112.021879,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash, 1182, Main Street, Mala, Layton, Davis County, Utah, 84041, United States",
+    "lat": 41.0773886,
+    "lon": -111.983469,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash, 83, North West State Street, American Fork, Utah County, Utah, 84003, United States",
+    "lat": 40.3783461,
+    "lon": -111.8136879,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash, 500 South, Bountiful, Davis County, Utah, 84010, United States",
+    "lat": 40.8837737,
+    "lon": -111.8878877,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash, 1022, North Division Street, Spokane, Spokane County, Washington, 99202, United States",
+    "lat": 47.6668044,
+    "lon": -117.4104641,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash, 255, East Hoerner Street, The Y, Spokane, Spokane County, Washington, 99218, United States",
+    "lat": 47.7426446,
+    "lon": -117.4071574,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash, 9009, West Sunset Highway, Spokane, Spokane County, Washington, 99219, United States",
+    "lat": 47.6425598,
+    "lon": -117.5354272,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash, 6420, North Division Street, Spokane, Spokane County, Washington, 99208, United States",
+    "lat": 47.7166845,
+    "lon": -117.4104691,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash, 1615, West Five Mile Road, Spokane, Spokane County, Washington, 99208, United States",
+    "lat": 47.7166869,
+    "lon": -117.43575,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash, East Point Douglas Road South, Cottage Grove, Washington County, Minnesota, 55016, United States",
+    "lat": 44.8183023,
+    "lon": -92.9351711,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash, 3220, Kennedy Road, West Richland, Benton County, Washington, United States",
+    "lat": 46.2577719,
+    "lon": -119.3307658,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash, 1131, Aaron Drive, Richland, Benton County, Washington, 99352, United States",
+    "lat": 46.2601266,
+    "lon": -119.2824016,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash, West Columbia Drive, Bridge-to-Bridge, Kennewick, Benton County, Washington, 99301, United States",
+    "lat": 46.2166264,
+    "lon": -119.1246345,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash, North Edison Street, Highlands, Kennewick, Benton County, Washington, 99336, United States",
+    "lat": 46.2200862,
+    "lon": -119.1913375,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash, 3810, West Court Street, Pasco, Franklin County, Washington, 99336, United States",
+    "lat": 46.2410337,
+    "lon": -119.1419783,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash, Burden Boulevard, Pasco, Franklin County, Washington, United States",
+    "lat": 46.2701744,
+    "lon": -119.1848313,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash, South 9th Avenue, Walla Walla, Walla Walla County, Washington, 99362, United States",
+    "lat": 46.0521353,
+    "lon": -118.3468049,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash, State Route 17, Moses Lake, Grant County, Washington, 98837, United States",
+    "lat": 47.1425311,
+    "lon": -119.2757981,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash, South Park Street, Bay Creek, Madison, Dane County, Wisconsin, 53715, United States",
+    "lat": 43.0581654,
+    "lon": -89.3995197,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash, East Washington Avenue, Marquette, Madison, Dane County, Wisconsin, 53703, United States",
+    "lat": 43.0842982,
+    "lon": -89.3697881,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash, Campus Drive, Regent, Madison, Dane County, Wisconsin, 53726, United States",
+    "lat": 43.0729848,
+    "lon": -89.4241095,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash, 2012, West Oklahoma Avenue, Southgate, Milwaukee, Milwaukee County, Wisconsin, 53215, United States",
+    "lat": 42.9887913,
+    "lon": -87.9391083,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash, 4763, South 27th Street, Tuckaway Estates, Greenfield, Milwaukee County, Wisconsin, 53221, United States",
+    "lat": 42.9580206,
+    "lon": -87.9494107,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash, Capital Drive, Oshkosh, Winnebago County, Wisconsin, 54902, United States",
+    "lat": 43.9977147,
+    "lon": -88.5746358,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash, 19050, West Bluemound Road, The Corners of Brookfield, Goerke's Corners, Town of Brookfield, Waukesha County, Wisconsin, 53045, United States",
+    "lat": 43.0368596,
+    "lon": -88.1498597,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash, Badger Drive, Hudson, Saint Croix County, Wisconsin, 54016, United States",
+    "lat": 44.9624489,
+    "lon": -92.7257455,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash, 7700, West Rawson Avenue, Franklin, Milwaukee County, Wisconsin, 53132, United States",
+    "lat": 42.916587,
+    "lon": -88.0111741,
+    "type": "Mister"
+  },
+  {
+    "name": "Mister Car Wash, 5506,5510, South Packard Avenue, Cudahy, Milwaukee County, Wisconsin, 53110, United States",
+    "lat": 42.94428,
+    "lon": -87.8594959,
+    "type": "Mister"
+  },
+  {
+    "name": "Take 5 Car Wash, L & N Drive Southwest, Piedmont, Huntsville, Madison County, Alabama, 35801, United States",
     "lat": 34.6963396,
     "lon": -86.5824696,
     "type": "Take"
   },
   {
-    "name": "Take 5 Car Wash #14",
-    "lat": 37.1834096,
-    "lon": -93.3553432,
-    "type": "Take"
-  },
-  {
-    "name": "Take 5 Car Wash #15",
-    "lat": 36.054813,
-    "lon": -94.1932382,
-    "type": "Take"
-  },
-  {
-    "name": "Take 5 Car Wash #16",
-    "lat": 42.0097921,
-    "lon": -93.6109849,
-    "type": "Take"
-  },
-  {
-    "name": "Take 5 Car Wash #17",
-    "lat": 40.2559087,
-    "lon": -111.6625205,
-    "type": "Take"
-  },
-  {
-    "name": "Take 5 Car Wash #18",
-    "lat": 33.2297936,
-    "lon": -97.1537226,
-    "type": "Take"
-  },
-  {
-    "name": "Take 5 Car Wash #19",
-    "lat": 41.2440337,
-    "lon": -112.0047171,
-    "type": "Take"
-  },
-  {
-    "name": "Take 5 Car Wash #20",
-    "lat": 35.3585092,
-    "lon": -94.3614165,
-    "type": "Take"
-  },
-  {
-    "name": "Take 5 Car Wash #21",
-    "lat": 35.3584922,
-    "lon": -94.3614212,
-    "type": "Take"
-  },
-  {
-    "name": "Take 5 Car Wash #22",
-    "lat": 39.0843124,
-    "lon": -108.5947841,
-    "type": "Take"
-  },
-  {
-    "name": "Take 5 Car Wash #23",
-    "lat": 35.6813156,
-    "lon": -88.8308847,
-    "type": "Take"
-  },
-  {
-    "name": "Take 5 Car Wash #24",
-    "lat": 35.6729239,
-    "lon": -88.781797,
-    "type": "Take"
-  },
-  {
-    "name": "Take 5 Car Wash #25",
-    "lat": 35.689983,
-    "lon": -88.8580636,
-    "type": "Take"
-  },
-  {
-    "name": "Take 5 Car Wash #26",
-    "lat": 41.4928379,
-    "lon": -87.044409,
-    "type": "Take"
-  },
-  {
-    "name": "Take 5 Car Wash #27",
-    "lat": 30.1432826,
-    "lon": -96.3919799,
-    "type": "Take"
-  },
-  {
-    "name": "Take 5 Car Wash #28",
-    "lat": 39.5941878,
-    "lon": -104.8337319,
-    "type": "Take"
-  },
-  {
-    "name": "Take 5 Car Wash #29",
-    "lat": 39.41652,
-    "lon": -104.8809756,
-    "type": "Take"
-  },
-  {
-    "name": "Take 5 Car Wash #30",
-    "lat": 38.3090057,
-    "lon": -85.8429973,
-    "type": "Take"
-  },
-  {
-    "name": "Take 5 Car Wash #31",
-    "lat": 37.7405845,
-    "lon": -85.889473,
-    "type": "Take"
-  },
-  {
-    "name": "Take 5 Car Wash #32",
-    "lat": 37.7405912,
-    "lon": -85.8894801,
-    "type": "Take"
-  },
-  {
-    "name": "Take 5 Car Wash #33",
-    "lat": 40.7258288,
-    "lon": -111.8918389,
-    "type": "Take"
-  },
-  {
-    "name": "Take 5 Car Wash #34",
-    "lat": 40.6309538,
-    "lon": -111.890565,
-    "type": "Take"
-  },
-  {
-    "name": "Take 5 Car Wash #35",
-    "lat": 37.3482845,
-    "lon": -87.4970678,
-    "type": "Take"
-  },
-  {
-    "name": "Take 5 Car Wash #36",
-    "lat": 35.7710771,
-    "lon": -95.3765094,
-    "type": "Take"
-  },
-  {
-    "name": "Take 5 Car Wash #37",
-    "lat": 43.013027,
-    "lon": -88.04728,
-    "type": "Take"
-  },
-  {
-    "name": "Take 5 Car Wash #38",
-    "lat": 37.791205,
-    "lon": -85.9121756,
-    "type": "Take"
-  },
-  {
-    "name": "Take 5 Car Wash #39",
+    "name": "Take 5 Car Wash, 2nd Avenue East, Oneonta, Blount County, Alabama, 35121, United States",
     "lat": 33.9729234,
     "lon": -86.4475432,
     "type": "Take"
   },
   {
-    "name": "Take 5 Car Wash #40",
-    "lat": 32.6888314,
-    "lon": -95.4848411,
-    "type": "Take"
-  },
-  {
-    "name": "Take 5 Car Wash #41",
-    "lat": 35.5918614,
-    "lon": -87.0515837,
-    "type": "Take"
-  },
-  {
-    "name": "Take 5 Car Wash #42",
+    "name": "Take 5 Car Wash, US 411;AL 68, Centre, Cherokee County, Alabama, 35960, United States",
     "lat": 34.1596617,
     "lon": -85.7131125,
     "type": "Take"
   },
   {
-    "name": "Take 5 Car Wash #43",
-    "lat": 34.0872837,
-    "lon": -81.1786895,
-    "type": "Take"
-  },
-  {
-    "name": "Take 5 Car Wash #44",
+    "name": "Take 5 Car Wash, County Park Road, Scottsboro, Jackson County, Alabama, 35769, United States",
     "lat": 34.6466151,
     "lon": -86.0316618,
     "type": "Take"
   },
   {
-    "name": "Take 5 Car Wash #45",
-    "lat": 36.0591004,
-    "lon": -89.3955862,
+    "name": "Take 5 Car Wash, 6631, AL 69, Tuscaloosa, Tuscaloosa County, Alabama, 35405, United States",
+    "lat": 33.1472019,
+    "lon": -87.5432599,
     "type": "Take"
   },
   {
-    "name": "Take 5 Car Wash #46",
-    "lat": 40.4927383,
-    "lon": -81.4677215,
+    "name": "Take 5 Car Wash, West Martin Luther King Junior Boulevard, Fayetteville, Washington County, Arkansas, United States",
+    "lat": 36.054813,
+    "lon": -94.1932382,
     "type": "Take"
   },
   {
-    "name": "Take 5 Car Wash #47",
-    "lat": 35.045485,
-    "lon": -89.6568064,
+    "name": "Take 5 Car Wash, 6417, Rogers Avenue, Fort Smith, Sebastian County, Arkansas, 72903, United States",
+    "lat": 35.3585092,
+    "lon": -94.3614165,
     "type": "Take"
   },
   {
-    "name": "Take 5 Car Wash #48",
-    "lat": 35.0452641,
-    "lon": -89.6896199,
+    "name": "Take 5 Car Wash, 6417, Rogers Avenue, Fort Smith, Sebastian County, Arkansas, 72903, United States",
+    "lat": 35.3584922,
+    "lon": -94.3614212,
     "type": "Take"
   },
   {
-    "name": "Take 5 Car Wash #49",
+    "name": "Take 5 Car Wash, 86, North Academy Boulevard, Colorado Springs, El Paso County, Colorado, 80909, United States",
+    "lat": 38.8333561,
+    "lon": -104.757854,
+    "type": "Take"
+  },
+  {
+    "name": "Take 5 Car Wash, 710, West Garden of the Gods Road, Colorado Springs, El Paso County, Colorado, 80907, United States",
+    "lat": 38.8973293,
+    "lon": -104.8389309,
+    "type": "Take"
+  },
+  {
+    "name": "Take 5 Car Wash, 4389, Integrity Center Point, Colorado Springs, El Paso County, Colorado, 80917, United States",
+    "lat": 38.8951162,
+    "lon": -104.7204863,
+    "type": "Take"
+  },
+  {
+    "name": "Take 5 Car Wash, 2475, 6 & 50 Trail, Durham, Grand Junction, Mesa County, Colorado, 81505, United States",
+    "lat": 39.0843124,
+    "lon": -108.5947841,
+    "type": "Take"
+  },
+  {
+    "name": "Take 5 Car Wash, 13333, East Briarwood Avenue, Centennial, Arapahoe County, Colorado, 80112, United States",
+    "lat": 39.5941878,
+    "lon": -104.8337319,
+    "type": "Take"
+  },
+  {
+    "name": "Take 5 Car Wash, 5711, New Abbey Lane, Castle Rock, Douglas County, Colorado, 80108, United States",
+    "lat": 39.41652,
+    "lon": -104.8809756,
+    "type": "Take"
+  },
+  {
+    "name": "Take 5 Car Wash, 3228, I 70 Business Loop, Clifton, Mesa County, Colorado, 81520, United States",
+    "lat": 39.0929838,
+    "lon": -108.4534726,
+    "type": "Take"
+  },
+  {
+    "name": "Take 5 Car Wash, 16941, East Lincoln Avenue, Parker, Douglas County, Colorado, 80134, United States",
+    "lat": 39.5348616,
+    "lon": -104.7929166,
+    "type": "Take"
+  },
+  {
+    "name": "Take 5 Car Wash, 13480, Beach Boulevard, Jacksonville, Duval County, Florida, 32224, United States",
+    "lat": 30.2870816,
+    "lon": -81.4620757,
+    "type": "Take"
+  },
+  {
+    "name": "Take 5 Car Wash, County Line Road, Spring Hill, Hernando County, Florida, 33526, United States",
+    "lat": 28.4344957,
+    "lon": -82.5451297,
+    "type": "Take"
+  },
+  {
+    "name": "Take-5 Car Wash, License Lane, Jasmine Lakes Center, Jasmine Estates, Pasco County, Florida, 34668, United States",
+    "lat": 28.3101278,
+    "lon": -82.6989718,
+    "type": "Take"
+  },
+  {
+    "name": "Take 5 Car Wash, Redstone Way, Suncoast Crossings, Odessa, Pasco County, Florida, 33558, United States",
+    "lat": 28.1866613,
+    "lon": -82.5492805,
+    "type": "Take"
+  },
+  {
+    "name": "Take 5 Car Wash, 1545, Pooler Parkway, Pooler, Chatham County, Georgia, 31322, United States",
     "lat": 32.0932716,
     "lon": -81.2735683,
     "type": "Take"
   },
   {
-    "name": "Take 5 Car Wash #50",
+    "name": "Take 5 Car Wash, Browns Bridge Road, Coal Mountain, Forsyth County, Georgia, 30358, United States",
+    "lat": 34.2655465,
+    "lon": -84.0889681,
+    "type": "Take"
+  },
+  {
+    "name": "Take 5 Car Wash, 1303, Vale Park Road, Valparaiso, Porter County, Indiana, 46383, United States",
+    "lat": 41.4928379,
+    "lon": -87.044409,
+    "type": "Take"
+  },
+  {
+    "name": "Take 5 Car Wash, West Daisy Lane, New Albany, Floyd County, Indiana, 47150, United States",
+    "lat": 38.3090057,
+    "lon": -85.8429973,
+    "type": "Take"
+  },
+  {
+    "name": "Take 5 Car Wash, 67, Johnson Boulevard, Columbus, Bartholomew County, Indiana, 47201, United States",
+    "lat": 39.1991931,
+    "lon": -85.9507,
+    "type": "Take"
+  },
+  {
+    "name": "Take 5 Car Wash, Buckeye Avenue, Duff Plaza, Ames, Story County, Iowa, 50010, United States",
+    "lat": 42.0097921,
+    "lon": -93.6109849,
+    "type": "Take"
+  },
+  {
+    "name": "Take 5 Car Wash, Dixie Highway South, Long View, Elizabethtown, Hardin County, Kentucky, 42701, United States",
+    "lat": 37.7405845,
+    "lon": -85.889473,
+    "type": "Take"
+  },
+  {
+    "name": "Take 5 Car Wash, Dixie Highway South, Long View, Elizabethtown, Hardin County, Kentucky, 42701, United States",
+    "lat": 37.7405912,
+    "lon": -85.8894801,
+    "type": "Take"
+  },
+  {
+    "name": "Take 5 Car Wash, 3, Chelsea Drive, Madisonville, Hopkins County, Kentucky, 42431, United States",
+    "lat": 37.3482845,
+    "lon": -87.4970678,
+    "type": "Take"
+  },
+  {
+    "name": "Take 5 Car Wash, 4060, Dixie Highway South, Long View, Radcliff, Hardin County, Kentucky, 40160, United States",
+    "lat": 37.791205,
+    "lon": -85.9121756,
+    "type": "Take"
+  },
+  {
+    "name": "Take 5, 8455, Airline Highway, Goodwood Homesites, Baton Rouge, East Baton Rouge Parish, Louisiana, 70815, United States",
+    "lat": 30.4582075,
+    "lon": -91.0988182,
+    "type": "Take"
+  },
+  {
+    "name": "Take 5 Car Wash, 3705, West Sunshine Street, Springfield, Greene County, Missouri, 65807, United States",
+    "lat": 37.1834096,
+    "lon": -93.3553432,
+    "type": "Take"
+  },
+  {
+    "name": "Take 5 Car Wash, North Arrowood Road, Dutchbrook, Richland County, South Carolina, 29210, United States",
+    "lat": 34.0308172,
+    "lon": -81.0969756,
+    "type": "Take"
+  },
+  {
+    "name": "Take 5 Car Wash, Patio Lane Northwest, New Philadelphia, Tuscarawas County, Ohio, 44663, United States",
+    "lat": 40.4927383,
+    "lon": -81.4677215,
+    "type": "Take"
+  },
+  {
+    "name": "Take 5 Car Wash, Emmitt Avenue, Green Acres, Pee Pee Township, Pike County, Ohio, United States",
+    "lat": 39.1137108,
+    "lon": -82.9961093,
+    "type": "Take"
+  },
+  {
+    "name": "Take 5 Car Wash, East Kenosha Street, Broken Arrow, Wagoner County, Oklahoma, 74014, United States",
+    "lat": 36.0614155,
+    "lon": -95.7415469,
+    "type": "Take"
+  },
+  {
+    "name": "Take 5 Car Wash, South Yale Avenue East, Tanglewood, Tulsa, Tulsa County, Oklahoma, 74135, United States",
+    "lat": 36.0906144,
+    "lon": -95.922919,
+    "type": "Take"
+  },
+  {
+    "name": "Take 5 Car Wash, 2037, North 11th Street West, Muskogee, Muskogee County, Oklahoma, 74403, United States",
+    "lat": 35.7710771,
+    "lon": -95.3765094,
+    "type": "Take"
+  },
+  {
+    "name": "Take 5 Car Wash, North Arrowood Road, Dutchbrook, Richland County, South Carolina, 29210, United States",
+    "lat": 34.0308172,
+    "lon": -81.0969756,
+    "type": "Take"
+  },
+  {
+    "name": "Take 5 Car Wash, Lake Murray Boulevard, Irmo, Lexington County, South Carolina, 29212, United States",
+    "lat": 34.0872837,
+    "lon": -81.1786895,
+    "type": "Take"
+  },
+  {
+    "name": "Take 5 Car Wash, 516, Columbia Avenue, Lakeland, Lexington, Lexington County, South Carolina, 29072, United States",
+    "lat": 33.9884957,
+    "lon": -81.2371606,
+    "type": "Take"
+  },
+  {
+    "name": "Take 5 Car Wash, Dawsons Creek Road, Blythewood, Richland County, South Carolina, 29016, United States",
+    "lat": 34.2124281,
+    "lon": -80.975745,
+    "type": "Take"
+  },
+  {
+    "name": "Take 5 Car Wash, 105, Scarborough Drive, Scarborough Parish, Lexington County, South Carolina, 29072, United States",
+    "lat": 33.9807281,
+    "lon": -81.2996707,
+    "type": "Take"
+  },
+  {
+    "name": "Take 5 Car Wash, 434, South Germantown Parkway, Memphis, Shelby County, West Tennessee, Tennessee, 38018, United States",
+    "lat": 35.119842,
+    "lon": -89.796514,
+    "type": "Take"
+  },
+  {
+    "name": "Take 5 Car Wash, Summer Avenue, Berclair, Memphis, Shelby County, West Tennessee, Tennessee, 38134, United States",
+    "lat": 35.1485044,
+    "lon": -89.9155144,
+    "type": "Take"
+  },
+  {
+    "name": "Take 5 Car Wash, 2729, North Highland Avenue, Jackson, Madison County, West Tennessee, Tennessee, 38305, United States",
+    "lat": 35.6813156,
+    "lon": -88.8308847,
+    "type": "Take"
+  },
+  {
+    "name": "Take 5 Car Wash, 60, Chloe Place, Jackson, Madison County, West Tennessee, Tennessee, 38305, United States",
+    "lat": 35.6729239,
+    "lon": -88.781797,
+    "type": "Take"
+  },
+  {
+    "name": "Take 5 Car Wash, 355, Oil Well Road, Jackson, Madison County, West Tennessee, Tennessee, 38305, United States",
+    "lat": 35.689983,
+    "lon": -88.8580636,
+    "type": "Take"
+  },
+  {
+    "name": "Take 5 Car Wash, 507, James M Campbell Boulevard South, West Meade, Columbia, Maury County, Middle Tennessee, Tennessee, 38401, United States",
+    "lat": 35.5918614,
+    "lon": -87.0515837,
+    "type": "Take"
+  },
+  {
+    "name": "Take 5 Car Wash, 2315, Lake Road, Dyersburg, Dyer County, West Tennessee, Tennessee, 38024, United States",
+    "lat": 36.0591004,
+    "lon": -89.3955862,
+    "type": "Take"
+  },
+  {
+    "name": "Take 5 Car Wash, East Poplar Avenue, Collierville, Shelby County, West Tennessee, Tennessee, 38017, United States",
+    "lat": 35.045485,
+    "lon": -89.6568064,
+    "type": "Take"
+  },
+  {
+    "name": "Take 5 Car Wash, Decaro Drive, Collierville, Shelby County, West Tennessee, Tennessee, 38017, United States",
+    "lat": 35.0452641,
+    "lon": -89.6896199,
+    "type": "Take"
+  },
+  {
+    "name": "Take 5 Car Wash, 111, Martin Luther King Jr Boulevard, East Dickson, Dickson, Dickson County, Middle Tennessee, Tennessee, 37055, United States",
     "lat": 36.0698062,
     "lon": -87.3799318,
+    "type": "Take"
+  },
+  {
+    "name": "Take 5 Car Wash, 67, Munford-Atoka Avenue, Crosstown, Munford, Tipton County, West Tennessee, Tennessee, 38058, United States",
+    "lat": 35.444389,
+    "lon": -89.7897805,
+    "type": "Take"
+  },
+  {
+    "name": "Take 5 Car Wash, 7273, Church Street, Oakland, Fayette County, West Tennessee, Tennessee, 38060, United States",
+    "lat": 35.2294556,
+    "lon": -89.5147413,
+    "type": "Take"
+  },
+  {
+    "name": "Take 5 Car Wash, 1751, South Main Street, Keller, Tarrant County, Texas, 76248, United States",
+    "lat": 32.9028036,
+    "lon": -97.2566511,
+    "type": "Take"
+  },
+  {
+    "name": "Take 5 Car Wash, 1900, West University Drive, Denton, Denton County, Texas, 76201, United States",
+    "lat": 33.2297936,
+    "lon": -97.1537226,
+    "type": "Take"
+  },
+  {
+    "name": "Take 5 Car Wash, Progress Drive, Brenham, Washington County, Texas, 77633, United States",
+    "lat": 30.1432826,
+    "lon": -96.3919799,
+    "type": "Take"
+  },
+  {
+    "name": "Take 5 Car Wash, North Pacific Street, Mineola, Wood County, Texas, 75773, United States",
+    "lat": 32.6888314,
+    "lon": -95.4848411,
+    "type": "Take"
+  },
+  {
+    "name": "Take 5 Car Wash, 10005, Oak Grove Lane, Hillstone Pointe, Cross Roads, Denton County, Texas, 76227, United States",
+    "lat": 33.224623,
+    "lon": -96.9767406,
+    "type": "Take"
+  },
+  {
+    "name": "Take 5 Car Wash, Oak Grove Lane, Hillstone Pointe, Providence Village, Denton County, Texas, 76227, United States",
+    "lat": 33.2244859,
+    "lon": -96.9765952,
+    "type": "Take"
+  },
+  {
+    "name": "Take 5 Car Wash, 1625, West 1625 North, Carterville, Pleasant View, Provo, Utah County, Utah, 84604, United States",
+    "lat": 40.2559087,
+    "lon": -111.6625205,
+    "type": "Take"
+  },
+  {
+    "name": "Take 5 Car Wash, 1031, West 12th Street, Ogden, Weber County, Utah, 84404, United States",
+    "lat": 41.2440337,
+    "lon": -112.0047171,
+    "type": "Take"
+  },
+  {
+    "name": "Take 5 Car Wash, 26 W, 2100 South, Salt Lake City, Salt Lake County, Utah, 84115, United States",
+    "lat": 40.7258288,
+    "lon": -111.8918389,
+    "type": "Take"
+  },
+  {
+    "name": "Take 5 Car Wash, 6501 S, State Street, Murray, Salt Lake County, Utah, 84107, United States",
+    "lat": 40.6309538,
+    "lon": -111.890565,
+    "type": "Take"
+  },
+  {
+    "name": "Take 5 Car Wash, 612, North State Street, Lindon, Utah County, Utah, 84042, United States",
+    "lat": 40.3502204,
+    "lon": -111.7287126,
+    "type": "Take"
+  },
+  {
+    "name": "Take 5 Car Wash, Hollywood, Lynchburg, Virginia, United States",
+    "lat": 37.3975542,
+    "lon": -79.2243702,
+    "type": "Take"
+  },
+  {
+    "name": "Take 5 Car Wash, 2115, North Franklin Street, Apple Acres, Christiansburg, Montgomery County, Virginia, 24073, United States",
+    "lat": 37.158974,
+    "lon": -80.4191353,
+    "type": "Take"
+  },
+  {
+    "name": "Take 5 Car Wash, West Martin Luther King Junior Boulevard, Fayetteville, Washington County, Arkansas, United States",
+    "lat": 36.054813,
+    "lon": -94.1932382,
+    "type": "Take"
+  },
+  {
+    "name": "Take 5 Car Wash, Progress Drive, Brenham, Washington County, Texas, 77633, United States",
+    "lat": 30.1432826,
+    "lon": -96.3919799,
+    "type": "Take"
+  },
+  {
+    "name": "Take 5 Car Wash, Fish Hatchery Road, Fitchburg, Dane County, Wisconsin, 53713, United States",
+    "lat": 43.029519,
+    "lon": -89.4099334,
+    "type": "Take"
+  },
+  {
+    "name": "Take 5 Car Wash, 10809, West Lapham Street, Greenfield Park, West Allis, Milwaukee County, Wisconsin, 53214, United States",
+    "lat": 43.013027,
+    "lon": -88.04728,
     "type": "Take"
   }
 ]
